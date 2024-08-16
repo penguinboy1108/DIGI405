@@ -1,0 +1,21 @@
+Apple plans to add generative artificial intelligence features to its products—such as the iPhone—as early as this fall, the company announced June 10, raising questions about how those upgrades will affect schools.
+Apple Intelligence, as the company is calling its AI features, can proofread and rewrite documents, generate images and emojis, transcribe phone calls and voice memos, summarize emails and lectures, and solve math problems.
+The announcement comes a few weeks after other“big tech” and education companies announced the expansion of AI productsthat can be used by students and teachers. Google is providing its generative AI tool as an add-on for educational institutions using its Workspace for Education product, and the Khan Academy and Microsoft are partnering to provide free access to the academy’s AI-powered assistant for teachers.
+
+While Apple’s announcement did not mention anything specific about K-12 education, many educators and students use iPhones and other Apple products and will most likely interact with these new features, according to some experts. For instance,a 2023 survey of 9,193 teens from investment bank Piper Sandlerfound that 87 percent of that age group owns an iPhone.
+“Having students explore AI on devices that they use is super exciting,” said Simon Guest, the chief technology officer of Code.org, a nonprofit working on expanding and improving computer science education. “Getting AI into the classroom so that students can both understand what AI can do and its limitations is super important. I think if this can be done on a device that students are familiar with, that can be powerful.”
+For the education space, two features that will most likely have implications for schools are the AI writing assistant and the new calculator app, said Claire Zau, a vice president for GSV Ventures, which invests in early stage ed-tech companies. The AI writing assistant—powered by OpenAI’s ChatGPT—is integrated into apps that have writing features, such as the ability to craft emails; and with the new calculator app on the iPad, users can write an equation and the app will automatically solve it.
+Many educators worry about studentsusing generative AI tools to cheat on assignments, thougha couple survey findingshave found that student cheating hasn’t skyrocketed over the past 18 months or so, when AI use expanded significantly after the release of ChatGPT.
+
+Educators are also concerned about the overuse of cellphones by students.But it is unclear how the new AI features might affect how much time students spend on their phones.
+Apple’s AI features are only available in its newest products, so it’s unlikely that most schools and students who have Apple devices will have access to them when they launch as a beta this fall and fully in the next year, Guest said.
+And it will take time to figure out if these features will work as designed, Zau said.
+Preparing students for an AI-driven future
+Still, experts see great potential in Apple’s features. For instance, Zau said the announcement could signal what the future of AI and hardware will look like, as well as what human interaction with devices could look like in the future.
+“Maybe that will influence how teachers will use devices in the classroom,” she said. It also shows how much more personalized and contextual AI could become, she added.
+As more tech companies roll out AI features, it becomes even more imperative for schools to train educators and students onAI literacy, experts say.
+
+If a cellphone or tablet can do the writing assignment or the math homework, Zau wonders what effects that will eventually have on students’ critical thinking skills.
+“You’ll have a lot of rethinking of how you actually deliver teaching in certain modalities,” she said.
+Schools also need to prepare students for an AI future, Zau added, because employers are looking for an AI-ready workforce.
+“If schools don’t prepare their students for an AI future, they are leaving their students at a disadvantage,” she said.

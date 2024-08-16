@@ -1,0 +1,23 @@
+The past year has been monumental for the evolution of artificial intelligence, with therelease of ChatGPTlast fall thrusting the technology into the public spotlight.
+In the education field, the reach and accessibility of the chatbot, developed by OpenAI, hassparked heated debatesabout how, and to what extent, generative AI belongs in the classroom. Some districts, including New York City schools, are banning its use, while others are embracing it.
+In addition, agroup of AI-detection toolshave come into the market, aimed at helping districts and colleges root out academic fraud brought about through the technology.
+So, how is this affecting the broader K-12 marketplace?
+A recently released report from Stanford University, the2023 AI Index Report, takes a broad look at trends in artificial intelligence, from its roles in academic research to the economy to education.
+Here are four key takeaways for education companies from the report:
+1. Demand for AI-Related Professional Skills Is Slowly Growing
+The Stanford report looked at job postings across every available sector of the U.S. marketplace.
+Across all of them, the number of AI-related job postings grew slightly, increasing from 1.7 percent of all job postings in 2021 to 1.9 percent, the report found. (It didn’t include agriculture, forestry, and fishing and hunting sectors.)
+Over time, signs that U.S. employers are increasingly looking for workers with AI-related skills could have a trickle-down impact on K-12. Schools can be sensitive to shifts in employer demand, as they seek to prepare their students to be a part of the future workforce.
+2. Interest in K-12 Computer Science — Which Has Ties to AI — Is Growing in the U.S.
+The report looks to participation in advanced computer science courses as an indicator of potential interest in AI among K-12 schools. In 2022, 27 states required that all high schools offer a computer science course.
+It finds that the total number of AP computer science exams taken nationally increased 1 percent in 2021, to 181,040. But since 2017, the growth has been more dramatic: The number of exams taken has “increased ninefold,” the report says.
+The students taking those exams are also becoming more diverse, with the share taken by female students rising from almost 17 percent in 2007 to nearly 31 percent in 2021. The number of nonwhite students taking the exams also increased.
+3. Other Countries Are Endorsing K-12 AI Curriculum
+As of 2021, 11 countries have officially endorsed and implemented a K–12 AI curriculum, the index found. They include India, China, Belgium, and South Korea. The U.S. is not on the list.(Curriculum in the U.S., unlike in some countries, is determined by individual states and school districts, not at the national level.)
+On the other hand, people in the U.S. remain among the most skeptical of the potential benefits of AI, according to the report. Only 35 percent of sampled Americans agreed that products and services using AI have more benefits than drawbacks, the report says.
+4. Industry, Not Academia, Is Leading the Way on AI
+Early on, most significant machine learning models were being released by academia, the report says. Since 2014, industry “has taken over.”
+Last year, there were 32 significant industry-produced models, compared to three models produced by academia.
+“Building state-of-the-art AI systems increasingly requires large amounts of data [and] resources that industry actors inherently possess in greater amounts,” the index concluded.
+
+See also:

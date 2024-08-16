@@ -1,0 +1,22 @@
+The most common mental picture of anartificial intelligence lessonmight be this: High schoolers in a computer science class cluster around pricey robotics equipment and laptops, solving complex problems with the help of an expert teacher.
+While there’s nothing wrong with that scenario, it doesn’t have to look that way, educators and experts say. Teaching AI can start as early as kindergarten. Students can learn key AI concepts without plugging in a single device. And AI can be applied to just about any subject—even basketball practice.
+Educators from around the world shared how they have been implementing AI in their classes on awebinar hosted earlier this month by the International Society for Technology in Education, a nonprofit that helps educators make the most of technology.
+
+ISTE has offeredprofessional developmentallowing educators to explore AI for six years, training some 2,000 educators. The nonprofit also offers sample lessons for students at every grade level that can be applied across a range of subjects.
+Here’s how educators who went through the training have used it in their classrooms—and busted three big myths about teaching AI concepts to K-12 students.
+Myth 1: AI should only be used with high school students
+It’s never too early to start teaching AI, educators and experts say.
+Cameron McKinley, a technology integration coach for Alabama’s Hoover City Schools, has taught AI concepts to kindergarteners through 2nd graders. She starts by having students sort cards with pictures of different objects into categories, the same way intelligent machines sort data. Then, she has students use an AI computer program, Quickdrop. The students draw pictures for the technology to interpret.
+
+It can be a good lesson in AI’s potential for misunderstanding. For instance, the program asked one student to draw glasses, so she drew something she might drink milk or water out of. The machine, though, was looking for eyeglasses that can improve vision.
+It was important that the student not get frustrated, McKinley said. “We encourage students to learn from failures” of the technology, McKinley said.
+Myth 2: Teaching AI requires sophisticated technologies
+You don’t need pricey devices to teach AI, educators argue.
+Adam Brua, an information technology teacher at Rutland Intermediate School in Vermont, likes working on the “unplugged” activities ISTE recommends with his 6th grade students. In one activity, students create a graph featuring the characteristics of different animals, showing which animals have fur, four legs, a tail, and/or paws, for instance. That mirrors how machines learn to sort and categorize information.
+It’s an activity any educator can do, almost anywhere, Brua said. “None of this requires expensive equipment or an advanced understanding of AI,” Brua said.
+But these sorts of tasks still allow students to analyze AI’s strengths and weaknesses, Brua said. “AI technologies can do certain tasks extremely well, such as image and speech recognition, while other tasks, such as discerning emotions are better left to be done by humans,” Brua said.
+Myth 3: Learning about AI is primarily for computer science students
+AI is a technology, sure, but there are ways to integrate it into all kinds of subjects, not just computer science.
+For instance, Brandon Taylor, who volunteers as a teacher at Chicago Prep Academy, a school with a focus on student athletes, worked with his basketball player students to create an AI program that could analyze and provide feedback on skills such as shooting, dribbling, and agility through video recordings of students.
+And Stacy George, an assistant professor at the University of Hawaii, worked with pre-service teachers on an AI social studies lesson. The budding teachers helped 2nd graders train a teachable machine to distinguish locally grown foods from those that must be flown into the state.
+“It kept the students engaged,” said one pre-service teacher in a video George shared on the webinar. “It was something different from what they’re normally used to.”

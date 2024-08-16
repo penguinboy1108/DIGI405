@@ -1,0 +1,30 @@
+Overworked teachers and stressed-out high schoolers are turning to artificial intelligence to lighten their workloads.
+But they aren’t sure just how much they can trust the technology—and they see plenty of ethical gray areas and potential for long-term problems with AI.
+How are both groups navigating the ethics of this new technology—and what can school districts to do to help them make the most of it, responsibly?
+
+That’s what Jennifer Rubin, a senior researcher at foundry10, an organization focused on improving learning, set to find out last year. She and her team conducted small focus groups on AI ethics with a total of 15 teachers nationwide as well as 33 high-school students.
+Rubin’s research is scheduled to be presented at the International Society for Technology in Education’s annual conference later this month in Denver.
+Here are four big takeaways from her team’s extensive interviews with students and teachers:
+1. Teachers see potential for generative AI tools to lighten their workload, but they also see big problems
+Teachers said they dabble with using AI tools like ChatGPT tohelp with tasks such as lesson planning or creating quizzes. But many educators aren’t sure how much they cantrust the information AI generates, or were unhappy with the quality of the responses they received, Rubin said.
+
+The teachers “raised a lot of concerns [about] information credibility,” Rubin said. “They also found that some of the information from ChatGPT was really antiquated, or wasn’t aligned with learning standards,” and therefore wasn’t particularly useful.
+Teachers are also worried that students might become overly reliant on AI tools to complete their writing assignments and would “therefore not develop the critical thinking skills that will be important” in their future careers, Rubin said.
+2. Teachers and students need to understand the technology’s strengths and weaknesses
+There’s a perception that adults understand how AI works and know how to use the tech responsibly.
+But that’s “not the case,” Rubin said. That’s why school and district leaders “should also think about ethical-use guidelines for teachers” as well as students.
+Teachers have big ethical questions about which tasks can be outsourced to AI, Rubin added. For instance, most teachers interviewed by the researcher saw using AI to grade student work or even offer feedback as an “ethically murky area because of the importance of human connection in how we deliver feedback to students in regards to their written work,” Rubin said.
+And some teachers reverted to using pen and paper rather than digital technologies so that students couldn’t use AI tools to cheat. That frustrated students who are accustomed to taking notes on a digital device—and goes contrary to what many experts recommend.
+
+“AI might have this unintended backlash where some teachers within our focus groups were actually taking away the use of technology within the classroom altogether, in order to get around the potential for academic dishonesty,” Rubin said.
+3. Students have a more nuanced perspective on AI than you might expect
+The high schoolers Rubin and her team talked to don’t see AI as the technological equivalent of a classmate who can write their papers for them.
+Instead, they use AI tools for the same reason adults do: To cope with a stressful, overwhelming workload.
+Teenagers talked about “having an extremely busy schedule with schoolwork, extracurriculars, working after school,” Rubin said. Any conversation about student use of AI needs to be grounded in how students use these tools to “help alleviate some of that pressure,” she said.
+For the most part, high schoolers use AI for help in research and writing for their humanities classes, as opposed to math and science, Rubin said. They might use it to brainstorm essay topics, to get feedback on a thesis statement for a paper, or to help smooth out grammar and word choices. Most said they were not using it for whole-sale plagiarism.
+Students were more likely to rely on AI if they felt that they were doing the same assignment over and over and had already “mastered that skill or have done it enough repeatedly,” Rubin said.
+4. Students need to be part of the process in crafting ethical use guidelines for their schools
+Students have their own ethical concerns about AI, Rubin said. For instance, “they’re really worried about the murkiness and unfairness that some students are using it and others aren’t and they’re receiving grades on something that can impact their future,” Rubin said.
+Students told researchers they wanted guidance on how to use AI ethically and responsibly but weren’t getting that advice from their teachers or schools.
+“There’s a lot of policing” for plagiarism, Rubin said, “but not a lot of productive conversation in classrooms with teachers and adults.”
+Students “want to understand what the ethical boundaries of using ChatGPT and other generative AI tools are,” Rubin said. “They want to have guidelines and policies around what this could look like for them. And yet they were not, at the time these focus groups [happened], receiving that from their teachers or their districts, and even their parents.”

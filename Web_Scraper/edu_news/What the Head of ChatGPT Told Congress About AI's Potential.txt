@@ -1,0 +1,26 @@
+Asartificial intelligencedominates more of the conversation in health, defense, and of course K-12 education, Congress is starting to think in earnest about how to write laws for this brand-new, booming, and little understood technology.
+As part of that effort, members of the Senate panel that oversees privacy and technology heard on May 16 from Sam Altman, the CEO of OpenAI. That’s the company that created ChatGPT, a tool that can write an essay explaining how the U.S. Constitution was written, a book report onThe Great Gatsby, and a haiku on flowers with human-like fluency.
+Students have used the technology to inform—and sometimes to cheat on—their school assignments. Some schools have decided to outright ban it,against the advice of most experts, who say that the next generation of workers needs to understand AI tools.
+
+Lawmakers steered clear of discussion about K-12 students using ChatGPT to cheat, but had plenty of other questions for Altman.
+Here’s how he handled queries about the future of work, privacy, the impact of AI on children, and other AI issues that educators have been wondering about.
+Preparing students for the future of work
+OpenAI’s CEO has no clear vision for how ChatGPT and other AI technologies will change the future of work, something educators are already wrestling with. But he’s certain the impact will be profound.
+“Like with all technological revolutions, I expect there to be significant impact on jobs. But exactly what that impact looks like is very difficult to predict,” Altman said, in response to a question from Sen. Richard Blumenthal, D-Conn., the chairman of the subcommittee that oversees technology. “I believe that there will be far greater jobs on the other side of this and that the jobs of today will get better. You see already people that are using [AI] to do their job much more efficiently.”
+Safeguarding children’s privacy
+ChatGPT and other AI tools need data to be able to make recommendations, surface information, and process language in a way that mimics what humans can do. But Altman believes users should be able to decide if their own personal data is used to “train” machines.
+“We think that people should be able to say ‘I don’t want my personal data [used to train AI],’” he said.
+Combatting the spread of misinformation and disinformation
+Another big concern educators have about AI is that it could help spread misinformation and disinformation. It makes false news stories and baseless social media posts easier to create and share. Schools are already working to combat the spread of misinformation and disinformation online byteaching media literacy.
+Altman believes AI-created work should be identified as such. “I think some regulation would be quite wise on this topic,” he said. “People need to know if they’re talking to an AI, if content that they’re looking at might be generated [by AI]. I think a great thing to do is to make that clear.”
+Protecting children from negative impacts of technology
+Congress has largely dropped the ball—at least so far—when it comes to regulating social media, a technology that many physicians, researchers, educators, and parents believe has had a serious impact on student mental health,leading some school districts to suesocial media companies to cover the mental health services schools are providing to students.
+But, in response to a question from Sen. Jon Ossoff, D-Ga., about his product’s impact on children, Altman said that ChatGPT doesn’t work to keep users on its platform the way social media companies do.
+
+“We’re not trying to get people to use it more and more and I think that’s a different shape than ad-supported social media,” he said.
+But he added that he understood the senators’ concerns that AI could spread misinformation or seek to influence kids. “[T]hese systems do have the capability to influence in obvious and in very nuanced ways. And I think that’s particularly important for the safety of children, but that will impact all of us.”
+ChatGPT can refuse to generate content about self-harm, violence, or other “adult” issues, Altman said, without providing specific examples of how that works.
+Ensuring AI isn’t used to plagiarize
+The hearing didn’t directly addresscheating in K-12 schools, but it did explore how AI could be used as a high-tech form of plagiarism.
+Sen. Marsha Blackburn, a Republican who represents Tennessee, a state that’s home to many song writers, pressed Altman on AI tools’ ability to write music in the style of, for instance, country superstar Garth Brooks. Shouldn’t Brooks get credit for any music created by AI tools mimicking his approach that’s sold commercially?
+“We think that creators deserve control over how their creations are used,” he said.

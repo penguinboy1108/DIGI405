@@ -1,0 +1,42 @@
+Clarification: This story has been clarified to reflect the fact that ISTE is collaborating with Google on the development of StretchAI. ISTE has also worked with other organizations, including OpenAI, on prototypes of future tools for supporting educators.
+ChatGPT can spit out a coherent sounding paper on the causes of the Civil War or analyze a Shakespeare play in seconds. But it may flub the most basic facts about Abraham Lincoln or Hamlet when generating those essays.
+The artificial intelligence tool pulls from nearly every imaginable source on the internet, even if much of the content is not accurate or produced by a reputable source. That’s not exactly the kind of technology that will help earn educators’ trust.
+
+Enter a new, more focused version of the technology that some call “walled garden” AI and its close cousin, carefully engineered chatbots.
+These cutting-edge bots are similar togenerative large language models like ChatGPTin that they are trained using internet data. But instead of absorbing large swaths of the internet and treating it all somewhat similarly, they generate feedback based on a more limited database of information that their creators deem reliable.
+Put another way: If ChatGPT and other more general large language models are the vast and largely lawless Wild, Wild West, this walled garden breed is a small, one-room K-12 school house run by a very strict and discerning teacher.
+“People understand that a general model isn’t going to serve the needs of education as well as specialized models,” said Joseph South, the chief innovation officer at the International Society for Technology in Education, a nonprofit, and one of the first education organizations to experiment with walled garden AI and specialized chatbots. “What makes them special and different is that the content that goes into them is curated. So, you don’t face all the dark side of the internet in your model that you have to filter out. You never put it in.”
+
+ISTE, whichrecently merged with ASCD, is working to developStretch, a chatbot trained only on information that was created or blessed by the two professional development organizations.This walled-garden model—which is not yet available to the general public—can also cite its sources, giving users’ a digital trail to follow in gauging its accuracy, according to South.
+That ability, along with the more curated training data, means Stretch and similar bots could be “incredibly useful, incredibly aligned [to educators’ needs] and much safer to deploy” than ChatGPT and its ilk, South said.
+Stretch, which is being developed in partnership with Google, is an early example of the kind of chatbot that teachers and students are likely to become very familiar with, South predicts.
+These more focused bots will likely help teachers find lesson plans tailored to students’ needs and interests, tap research-based professional development, and even serve as a kind of high-tech tutor for students, South said. Similar technology is already available or will be developed for fields like healthcare and energy, he added.
+While nonprofits like ISTE will have their own bots, so will other organizations, South predicted.
+“There’s going to be different gatekeepers for these models,” South said. “And it’s going to matter a whole lot: who built the model? Because whoever built the model is providing you your universe of content that you will be drawing from.”
+
+That’s why Pam Amendola, an English teacher at Dawson County High School in Dawsonville, Ga., feels conflicted.
+On the one hand, a bot focused on professional development from ISTE holds a lot promise and credibility, said Amendola, who completed ISTE’s special AI training program several years ago.
+On the other hand, sorting through the biases and viewpoints of the developers who designed the algorithms that choose the data that a ‘walled garden’ bot concentrates on opens up a whole new set of questions in theburgeoning field of AI literacy, she added.
+“We should be questioning everything” and not assuming bots are all-knowing, she said.
+‘Breaking new ground’
+This kind of specialized AI may have exciting applications in schools, but it’s not going to be easy to create or to monitor, said Michael Littman, the division director of information and intelligent systems at the National Science Foundation and a professor of computer science at Brown University.
+“I don’t know if I’d call it the future of AI but it could very well be the future of chatbots,” Littman said. “The biggest challenge at the moment is combining the fluency” of more general models like ChatGPT “with the ability to actually talk about something particular,” he explained.
+
+But he added that just as “bugs can fly into a [real-life] walled garden,” these models will still have to work to keep out bad information or “hallucinations,” computer-science speak for inaccuracies, Littman added.
+“If people are promising you a perfectly safe chatbot, you should probably be skeptical for the time being,” Littman said. “But it’s exciting. This is breaking some new ground.”
+South sees several different possibilities for schools with this more focused, and its creators hope, more reliable, AI. Teachers could use it to plan lessons—for instance, asking for ideas to help students with dyslexia learn how to summarize what they read, South said. That’s something teachers already do with more general large language models, but the focused bots would likely be more efficient and trustworthy.
+Another possibility: A teacher may be seeking help with some aspect of their practice—learner differentiation, student wellness, classroom management—but only want to consider evidence-backed information.
+And walled-garden AI could control for an obvious problem: When it comes to teaching and learning, a strategy that’s all the rage one minute—say, personalized learning—might be debunked down the line. That’s why ISTE and ASCD are using just a short time window’s worth of data—around the two most recent years—to train Stretch, South said.
+AI as the ultimate tutor?
+Maybe the most powerful potential use of curated AI in schools: Tutoring. A good teacher helps illuminate information and concepts for students but they “can’t anticipate the needs of every student who comes to their classroom,” South said.
+
+A carefully engineered, focused chatbot, however, could “engage students from where they are very specifically, and that can be incredibly powerful,” South said. “A teacher doesn’t have time to do that with every student. But AI does.”
+One of the most prominent early examples of this is Khanmigo, a chatbot developed by the nonprofit Khan Academy.
+Khanmigo works differently from ISTE’s Stretch. Instead of training the tech to focus its information absorption on a carefully curated corner of the internet, Khan Academy has engineered its bot to act like a tutor.
+Khanmigodoesn’t give students a direct answer to their questions. For instance, if a student is learning about long division and asked the bot to calculate, say, 10,864 divided by 342, the student wouldn’t get an immediate answer, Kristen DiCerbo, the chief learning officer at Khan Academy, said in an interview.
+Instead, the bot might respond with something like: “‘that’s a great question. Thank you for asking. Do you have any ideas about how to start thinking about getting an answer?’” And the student might say “‘well, I know I am supposed to look at the tens and the ones.’” The bot will then say “‘that’s a great way to think about it. Let’s talk about how to do that.’”
+Or if the student says initially that they aren’t sure where to begin, the bot might point them in the right direction, again, without spitting out an answer.
+
+Khanmigo can also personalize its instruction, giving students long division examples based on their interests, such as baseball or high fashion.
+The tool is still in a testing mode, DiCerbo explained, and allows users to report instances where it doesn’t act like it’s supposed to. So far, only about 2 percent of its interactions have been flagged as problematic, DiCerbo said.
+“Right now, we’re finding [a] large language model with guardrails around it is pretty successful,” DiCerbo said. “We’ll see if we reach a limit on what we can do with it, but we haven’t so far.”

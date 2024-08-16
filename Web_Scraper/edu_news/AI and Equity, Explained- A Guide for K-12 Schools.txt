@@ -1,0 +1,78 @@
+Have a student ask an artificial intelligence image generator, like Google’s Gemini, for a picture of a doctor and it will probably pull up a white man in a lab coat and stethoscope.
+Ask a generative AI tool like ChatGPT tograde two nearly identical student essays mentioning musicand it will give higher marks to the classical lover than the rap fan.
+Robots and computers are machines. They don’t have their own opinions about a user’s race, income, or fondness for Beethoven over Kendrick Lamar.
+
+But AI technology is only as good as the data it’s been trained on. And thatdata often reflects the biases inherent in society.
+“We assume [AI] is neutral. We assume that it’s not prone to [human] biases,” said Punya Mishra, the associate dean of scholarship & innovation at Mary Lou Fulton Teachers College at Arizona State University.
+But AI tools are “as biased as we are because they have been trained on us,” he said. “They are a black mirror to us.”
+As AItransforms K-12 education—providing everything fromlesson planning assistance for overworked teachersto chatbot tutors for students— educators must be aware of how societal biases reflected in the data that underpins AI can shape its responses, experts say.
+
+Those biases aren’t limited to race, gender, or family income issues, emphasized Erin Mote, the co-founder and executive director of InnovateEDU, a national nonprofit that seeks to build school districts’ capacity on policy and technology. They can include whether a student is an English learner, has learning and thinking differences, or even whether they are performing on grade-level.
+“AI can’t think about context. It’s really just about patterns and inconsistencies,” Mote said.
+She encourages educators to embrace the benefits that AI offers, while ensuring the tech never has the final say on decisions about students. If AI was the ultimate decisionmaker, schools would be “really, really taking out the valuable knowledge that educators bring,” she said.
+In other words, if they blindly trust AI’s recommendations, educators risk using cutting edge technology to double down on the very types of discrimination schools are working to move past.
+And putting products that are untested for bias into classrooms could come at a high cost for schools and ed-tech developers, warned Nathan Kriha, a P-12 policy analyst for The Education Trust, a civil rights organization.
+It could mean “we will have some potentially incredibly problematic tools embedded into school systems” across the country, Kriha said.
+Bias problems emerge due to lack of information
+Computer scientists and even many educators were aware of AI’s bias problems even before ChatGPT came on the scene in late 2022.
+AI-powered-assessment algorithms used to figure out criminal sentencestend to issue harsher punishments for Black defendants than white ones, studies have shown. Amazon’s former AI-powered hiring system appeared to screen out female applicants,which led the company to ditch it.Facial recognition technology isa lot less accurate in identifying people of color, and women, than white men.
+“We have a big challenge because the underlying technology that this was built on is inherently biased and we know it,” Mote said.
+Often, the bias problems emerge because the technology doesn’t have nearly as much information about one group as it does about another.
+In a K-12 context, AI might look at different types of students. And while most datasets contain a lot of information about native English speakers and neurotypical students, they don’t have nearly as much to draw from on English learners or students in special education.
+By the same token, generative AI tools like ChatGPT develop—some say “get smarter"—by absorbing huge swaths of the internet. But most online content is written in English and originated in Western countries. That opens the door for huge potential bias in its recommendations.
+
+“We know that the output is going to be more white-centered, it’s going to be more male centered,” Kriha said. “What happens if [responses] have historical inaccuracies? Or lack cultural context? There’s so much potential here for things to go wrong and for bias to bubble up to the surface.”
+In some cases, AI’s biases and what’s triggering them are obvious, Mishra said. But that’s not always the case because “these things are black boxes,” he added.
+That means even the tech’s creators can’t precisely trace where the information they synthesize and spit back out to users comes from—and therefore can’t explain why AI might give very different responses to similar queries.
+Some experts predict that the biases in widely used large language models like ChatGPT will eventually weaken, since people all over the world are training the technology over time through their queries and responses.
+To illustrate this idea, Zafer Unal, a professor in the College of Education at the University of South Florida, notes that his own grasp of English has improved dramatically since he came to the United States from Turkey nearly two decades ago.
+Mastering the new language took “practice, practice, practice, practice, feedback, practice, feedback, practice,” Unal recalled. In general, he suggests “it’s the same with AI. AI is practicing with the use of data. If we give it data, will ChatGPT or other AI improve? Oh, definitely.”
+
+But Mote believes the biases will stick—and perhaps even be amplified—unless AI technology incorporates more representative data, even if that data must becarefully curatedorartificially generated.
+Real consequences if machines trump human judgment
+If educators aren’t aware of AI’s biases—and don’t ultimately rely on their own judgment over a machine’s—there could be real consequences for students as these tools take hold, experts warn.
+Case-in-point: One of the most exciting possibilities of AI for K-12 educators is its potential for personalizing lessons for students.
+But AI’s feedback on student work “might be right for, say, a neurotypical child and maybe not right for a neuroatypical child,” said Ashok Goel, a professor of computer science and human-centered computing in the School of Interactive Computing at Georgia Institute of Technology, who is developing and testing an AI chatbot to assist adult learners. “But the AI will not be able to make that distinction because it doesn’t have the data on neuroatypical children” since that population is “harder to collect data on.”
+Similarly, voice recognition software used to gauge a student’s reading level may not accurately assess students with strong regional accents or those whose first language isn’t English.
+AI-powered chatbots could help a student who is essentially on grade-level but may not have the sophistication to serve students who are further behind, warned Jeremy Roschelle, the co-executive director of learning science research for Digital Promise, a nonprofit organization that works on equity and technology issues in schools.
+
+And an AI-powered system relying on historical data to decide whether a particular student should be suspended, or which kids should be invited to take Advanced Placement Biology might dole out tougher punishments for students of color and send more white students to gifted classes.
+“If models are trained on [discriminatory] data, then they will produce recommendations that are discriminatory,” said D’Andre Weaver, the chief digital equity officer for Digital Promise.
+That’s a problem for even the most responsible ed-tech developers, Mote said.
+“Many of these companies are super well-meaning and really do want to be good stewards of equity, but the only data they have to train their models on is their own,” she said.
+Compounding matters: There’s a race underway among ed-tech providers to get AI-powered K-12 tools to market, experts say. As developers rush to create these products, they may not be carefully testing for biases.
+“You have got to figure that the future has scandals,” in which researchers realize an AI tool is biased long after it has been used to inform teaching and learning in many schools, Roschelle said.
+Think of AI as a brainstorming partner, not an authority
+Thoughtful regulation of education technology at the federal and state levels could head off or alleviate that nightmare scenario, Roschelle added.
+But absent those policy safeguards, there are immediate steps schools can take to limit potential problems.
+Number one on districts’ to-do lists should be training teachers carefully on how to use these tools, including a strong “messaging campaign” about bias, Kriha said.
+“I’m worried that teachers might not even know that these biases exist in the first place,” Kriha said. “Hopefully, [the messaging campaign] would make teachers a bit more conscious about over relying on these tools in classroom settings.”
+Mishra suggested teachers think of AI as a brainstorming partner, not an authority.
+“We need to be seeing this—at least in the K-12 context—as a possibility engine rather than helping us do actual tasks because it’s not there yet,” he said. Schools need to be asking themselves “how do we build critical thinking skills in our educators and in our students not to take this [AI] stuff at face value?”
+
+Schools can also ask some basic questions of vendors to get a sense of whether their tools have been investigated for bias, experts said. Those could include: What is the purpose of this tool? Has the tool been proven to be effective for that purpose? Does the vendor have studies, research, or other evidence that the tool is effective with different types of students, including English learners and students in special education?
+“There are a lot of questions that vendors should have good answers to, and if they don’t, that’s a red flag,” said Hannah Quay-de la Vallee, a senior technologist for the Center for Democracy & Technology.
+Schools should be wary if a vendor can’t “tell you what they’ve done to assess their tool for bias” as opposed to being able to say, “Here’s our data, here’s what we’ve found,” she explained. Another warning signal, according to Quay-de la Vallee: “‘Don’t worry, we checked but it’s a trade secret.’”
+Schools also need to be aware that a particular tool may not be effective with their students. For instance, if an AI-powered application was trained on English learners, but they were all native Spanish speakers, it might not be a good choice for a district where most English learners speak another language, such as Chinese, at home.
+“You can have the best vendor with the best tech, and it still might not work in your context,” Quay-de la Vallee said.
+To think through these issues, it may be a good idea for a district technology office to work with staffers who specialize in equity or diversity, Quay-de la Vallee said.
+
+“Absolutely talk to your diversity, equity, and inclusion office,” she suggested. “Have them do a first pass of like, ‘Ooh, that’s like pinging some red flags. We need to do some checks and balances there.’”
+AI detectors are popular among educators but bring big bias problems
+Schools should also stop using AI-related tools that are shown to be ineffective or biased. Case-in-point: Right now, one of the most problematic AI-related tools educators use regularly is, ironically, AI detectors.
+More than two-thirds—68 percent—of teachers report using an AI detection tool regularly,according to a survey of 460 6th to 12th grade public school teachers conducted for the Center for Democracy & Technology, a nonprofit organization that aims to shape technology policy.
+But researchers ran essays written by Chinese students for the Test of English as a Foreign Language, or TOEFL, through seven widely used detectors. They did the same with a sample of essays written by U.S. 8th graders who were native English speakers.
+The toolsincorrectly labeled more than half of the TOEFL essays as AI-generated, while accurately classifying the 8th grade essays.
+In fact, Kristin Woelfel, a policy counsel specializing in equity and civic technology for the center, believes that schools that continue to use the detection software may be committing a “potential civil rights violation where these kids are going to be flagged more often and potentially either disciplined or given some kind of academic consequence like a change in grades.”
+The burden of creating opportunities for all students to learn about AI
+K-12 schools must address another AI equity problem: Even though an understanding of AI is expected to be a highly valued skill in the future job market, most students don’t have access to AI coursework.
+For now, it is unclear which schools make AI part of the curriculum—and whether students from a variety of backgrounds benefit. But Black, Hispanic, and Native American students have less access than white and Asian students toclasses in computer science,the broader subject of which AI is a subdiscipline, according to Code.Org, a nonprofit that seeks to expand computer science coursework.
+Those students, as well as those from low-income families and children who live in rural areas, are also less likely to have a strong broadband connection, a computing device, and a teacher who understands how technology can effectively advance instruction.
+Historically, the nation has a “horrendous track record of providing equitable access to new technologies for students of color, and students from low-income backgrounds,” said The Education Trust’s Kriha.
+“And if we as a society are living under this assumption that these tools are going to be important for professional life, there needs to be open conversation about this equity of access” to AI tools and coursework in both the technical aspects of AI and AI literacy, he said.
+Ensuring students from all types of backgrounds are exposed to AI and given the chance to consider careers in this burgeoning corner of computer science isn’t just an equity imperative, experts say.
+
+It may be the best possible defense against bias.
+“This is not just a high level like, ‘Oh, wouldn’t it be nice,’” said Quay-de la Vallee from the Center for Democracy & Technology. “We see in the technology we build that these are failures because we build [technology] for the circumstances that are most obvious to the people who built it.”
+If more people from a Muslim background had worked on AI-powered facial recognition software, it might have become obvious sooner that many women wear veils called niqābs andthose tools would not work on them, she said.
+“It’s not like people building the tech don’t care about these populations. It’s that a lot of these disparities are invisible to them,” Quay-de la Vallee added. “That is just going to continue to get worse if we are not building a pipeline that brings in people who have lived experiences that allow you to clock [bias problems] very early on in the development process.”

@@ -1,0 +1,37 @@
+At least one state has begun using artificial intelligence to determine the number of students who are at risk of failing to graduate on time and thus eligible for additional K-12 funding for their districts. More could follow.
+But will AI serve as a game-changing tool for streamlining and refining the messy process of determining how much money schools need and receive? Or is it destined to further heighten the often inscrutable chaos of school funding formulas?
+Nevada education officials since last year have been working to develop a more precise calculation of the number of students in the state who aren’t English learners or students with disabilities, but still require additional weighted funding from the state beyond the base per-pupil aid every student receives.
+
+The previous measure the state used to make that determination—the number of students eligible for free and reduced-price lunch—has become increasingly unreliable. Instead, the state now uses a tool from the technology company Infinite Campus called the “grad score” that indicates the likelihood a student will or won’t graduate from high school on time.
+Every student in the state has a grad score, as Nevada is one of six states where every district uses the Infinite Campus platform. Machine learning uses available data from the platform on students’ academics, attendance, behavior, and demographics to assign the score, which fluctuates regularly.
+Once a year, the Nevada education department pulls the grad score for every student. Districts get an additional 35 cents for every dollar of base per-pupil aid they receive for all students who score in the “high” and “medium” risk categories. Schools receive no additional aid for students who score “low-risk” beyond the base amount this year of $7,073 per pupil.
+Reactions to the new system so far are mixed. That’s in part because even state lawmakers and district leaders are still trying to puzzle out how the new system works, and how it compares with the old system.
+
+And it’s in part because the business of school funding formulas involves making calculations without widespread agreement on the goal. Is it to:
+These are questions that authors, observers, and beneficiaries of school funding formulas routinely confront nationwide.
+Here’s a look at four key takeaways from the experiment currently underway in Nevada.
+Funding formulas benefit from careful reevaluation
+Many states still use the number of students eligible for free and reduced-price lunch to help them determine how many students in the state are from low-income families.
+But the number of students eligible for that benefit has dramatically increased in recent years, especially as the federal government has given schools permission within the past year to make all of their students eligible if just 25 percent of their student body qualifies. Researchers have also pointed out that parents whose kids would benefit don’t always fill out the necessary forms to demonstrate their eligibility.
+
+States should be regularly examining whether the assumptions built into their formulas for determining school aid match up with present-day reality, said David Knight, an associate professor of education finance and policy at the University of Washington College of Education.
+
+“I’m not going to jump on the finger-waving bandwagon when I see a state experimenting with its funding model, even if I don’t necessarily think they’re knocking it out of the park,” Knight said.
+Good data, and lots of it, is crucial
+Every school district in Nevada has access to the Infinite Campus platform, which allows principals and teachers to put in students’ grades, behavior citations, attendance records, and other data. The system then produces a score between 50 and 150 that represents the likelihood that a student will graduate.
+Students who score at or below 72 receive additional weighted funding from the state. Students who score above 72 do not.
+The accuracy of the prediction improves when the data informing the score is comprehensive. If a school neglects to put in all the relevant data, or if a student enters the state from another state that doesn’t use Infinite Campus, the system has fewer data points on which to base its determination, company officials have said.
+If this model for calculating funding needs becomes more commonplace, school districts will have a greater responsibility, for their own self-interest, to ensure they rigorously catalog student data.
+Noble intentions can have unexpected consequences
+School funding formulas tend to be so complex that they don’t always work the way policymakers intend—even on rare occasions when everyone agrees on what to do.
+
+In Nevada, there was widespread agreement that eligibility for free and reduced-price meals wasn’t the most precise proxy for student need. The state reworked the formula to try to target aid to the students who need it the most.
+Some school and district leaders say it hasn’t worked out that way. Two charter school leaders have said the number of their students qualifying for at-risk aid this year went from hundreds or even thousands to fewer than 50. One school district leader said his district’s share of at-risk students was unexpectedly far lower than the statewide share.
+That means some schools will struggle to pay for services they say they need to offer to students who are struggling academically and emotionally. That’s the opposite of what policymakers were hoping to accomplish.
+Technology can replicate human bias and error
+It may become increasingly tempting for states and school districts to automate tedious processes around school finance.
+It makes sense—even in the recent past, states have made clerical errors while crafting K-12 education budgets that end up causing major headaches for school districts.
+
+But expecting technology to erase the potential for human fallibility may be premature. Numerous pieces of reporting on AI algorithms, likethis one from The Markup on an early-warning system in Wisconsin, indicate that they often harbor the same racial and gender biases that plague policies and systems crafted entirely by humans.
+
+And there’s no guarantee that a system like the Infinite Campus one Nevada is using will be right about a student’s graduation prospects. The company’s data scientists estimate their predictions are accurate 95 percent of the time—but that still leaves some potential for error.

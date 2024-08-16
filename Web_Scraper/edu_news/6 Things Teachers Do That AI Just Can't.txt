@@ -1,0 +1,34 @@
+Tools powered by artificial intelligence have the potential to increase people’s productivity and make many tasks easier to do. In the K-12 world,educators are already using AI toolsto plan lessons, create rubrics, provide feedback on student assignments, and respond to parent emails.
+When asked what role AI-powered tools should play in teaching and learning, more than a quarter of educators (27 percent) said “creation of instructional materials,” 24 percent said “lesson planning for teachers,” 23 percent said “creation of assignments for students,” 12 percent said “grading students,” and 7 percent said “completing student paperwork,” according to an EdWeek Research Center survey of 1,301 district leaders, principals, and teachers conducted this summer.
+Of course, there are downsides to this technology. For instance, AI tools canproduce inaccurate or biased responsesbased on faulty data it draws from, and it has the potential to expose private and sensitive data. Many executives, researchers, and engineers have also raised red flags about AI’s potential to eliminate many jobs.
+
+But teachers’ jobs are safe, experts say. While there are a handful of teacher tasks that generative AI tools can replicate, teachers also have so many other strengths and responsibilities that would be very unlikely to be replaced by those tools. In fact, even though AI “as a replacement for teachers” was one of the options in the EdWeek Research Center survey, no educator selected it as an answer.
+Here are some teacher tasks that are unlikely to be taken over by AI tools, according to interviews and email responses from educators, AI researchers, and tech company CEOs:
+Teaching critical thinking
+
+— Dyane Smokorowski, digital literacy coordinator for the Wichita school district in Kansas
+
+— Cherie Shields, high school English teacher in the Oregon Trail school district in Sandy, Ore.
+Building relationships with students
+
+— Glenn Kleiman, senior adviser at the Stanford Graduate School of Education
+
+— Smokorowski
+Motivating students
+
+— Tom Mitchell, professor and researcher in machine learning and artificial intelligence at Carnegie Mellon University
+
+— Ken Koedinger, professor of human-computer interaction and psychology at Carnegie Mellon University
+Creating a positive learning environment
+
+— Tara Nattrass, managing director of innovation strategy at ISTE/ASCD
+
+— Adam Geller, founder and CEO of Edthena, which provides AI-powered professional development
+
+— Smokorowski
+Providing high-quality feedback on student performance
+
+— Smokorowski
+Attending to students’ basic needs
+
+— Smokorowski

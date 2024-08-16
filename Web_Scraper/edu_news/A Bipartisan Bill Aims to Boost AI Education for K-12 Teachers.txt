@@ -1,0 +1,25 @@
+More than half of educators believe that studentswill need some knowledge of artificial intelligence to succeed in the workplaceof the future, according to an EdWeek Research Center survey conducted late last year.
+It appears that at least some lawmakers in Congress have come to the same conclusion.
+U.S. Sens. Maria Cantwell, D-Wash., and Jerry Moran, R-Kan., this month introduced thebipartisan NSF AI Education Act of 2024. The bill seeks to expand scholarship aid and professional development opportunities for K-12 educators interested in artificial intelligence and quantum computing, with support from the National Science Foundation or NSF.
+
+Quantum computing, like AI, is a rapidly developing field related to computer science, which seeks to harness technology to quickly solve problems.
+The legislation would create a grant program at the NSF to promote research on teaching AI at K-12 schools, with a focus on schools that serve low-income, rural, and tribal students. The bill leaves the size of the grant program up to NSF.
+This bill also calls on NSF to award undergraduate and graduate scholarships for future educators, as well as students interested in farming and advanced manufacturing, to study AI. The grants would be given directly to post-secondary institutions to cover students’ tuition and fees and to provide them with a stipend.
+The bill directs NSF to develop publicly available “playbooks” for introducing AI in P-12 classrooms nationwide. The playbooks would include a special focus on schools in rural or economically struggling communities.
+
+This guidance would be in addition to AI resources that the Biden administration hasdirected the U.S. Education Department to release this year, including a forthcoming AI policy toolkit.
+The bill calls on NSF to conduct an outreach campaign on its AI and quantum education opportunities at K-12 schools and post-secondary institutions.
+“The emerging tech jobs of tomorrow are here today,” Cantwell said in a statement. “Demand for AI expertise is already high and will continue to grow. This bill will open doors to AI for students at all levels, and upskill our workforce.”
+“Artificial intelligence has tremendous potential, but it will require a skilled and capable workforce to unlock its capabilities,” Moran said in a statement. “If we want to fully understand AI and remain globally competitive, we must invest in the future workforce today.”
+‘There’s a real dearth of practical resources’
+At least one advocate for AI education is heartened that some in Congress have begun to focus on this issue—and particularly pleased by the legislation’s focus on research on AI in education.
+Educators are asking, “when are we going to understand the potential positive impact of generative AI on schools but also the potential harms that we need to mitigate?” said Amanda Bickerstaff, the CEO of AI for Education, a business that works with educators the responsible adoption of AI in schools.
+
+She’s glad that the bill may allow NSF to start creating materials for AI in education.
+“There’s a dearth of really practical resources, and there’s a real need for educators to get their hands around what to actually start doing within their classrooms to support student learning,” as well as how to use the tools in a smart way to develop lesson plans, assignments, and complete other tasks, Bickerstaff said.
+This is at least thesecond piece of bipartisan legislationintroduced in this Congress to promote AI literacy. In December, Reps. Lisa Blunt Rochester, D-Del., and Larry Bucshon, R-Ind., introduced the “Artificial Intelligence Literacy Act.”
+That measure would shine a spotlight on the importance of teaching AI literacy. It would make it clear that K-12 schools, colleges, nonprofits, and libraries can use grants available under an existing program—the $1.25 billionDigital Equity Competitive Grant program—to support AI literacy. It defines AI literacy as understanding the basic principles of AI, its applications and limitations, as well as ethical considerations.
+Importantly, neither bill would set aside new money for teaching AI, though a spokeswoman for the Democrats on the Senate commerce committee, which Cantwell chairs and on which Moran serves as a senior member, said Cantwell will work to ensure NSF has the funds it needs to implement these programs.
+The agency currently receives $9.05 billion, for fiscal year 2024 but Cantwell and other leaders are pushing for $15.6 billion for fiscal year 2025 the amount specified in arecent bipartisanlaw aimed in part at advancing economic competitiveness through STEM education, the spokeswoman said.
+
+While the lack of dedicated new funds might disappoint educators hoping for additional resources, it also may boost the measures’ chance of passing, as Congress is operating under a bipartisan deal with significant spending constraints.

@@ -1,0 +1,39 @@
+Artificial intelligence is forcing all sorts of complicated questions on schools and teachers: What are the consequences of blindly trusting what AI tells us? What good—or harm—might come from the vast data collection underlying the technology?
+And maybe most importantly: Can something we invented to better our lives wind up hurting us instead?
+Though the technology may be relatively new, many of these big questions aren’t. In fact, science fiction writers have probed them for decades, even centuries.
+
+That makesscience fiction an extraordinary toolfor helping students understand AI and its potential impact on society, teachers say.
+Here are some of the texts that educators—from computer science teachers to English instructors—say they’ve found useful in helping students become AI literate. (For the record, one is a nonfiction memoir.)
+AI 2041 by Kai Fu-Lee and Chen Qiufan
+The 10 short stories in this book are set in different cities around the world 20 years after the book’s 2021 publication—when most high schoolers will be in their 30s. Many feature teenage characters. After each story, there’s a short explanation of the technology it explores.
+The authors paint a picture of a “reasonable future [with] AI. Like, in 20 years, like what would life be like with this thing?” said Andrew Smith, who teaches computer science at Woodstock High School in Woodstock, Vt. The stories explore issues such as data collection, privacy, and the biases in society that might be amplified by AI-powered systems, all issues that students and educators are examining more and more as the use of AI expands in K-12 education and across other sectors.
+All Systems Red: Murderbot Diaries by Martha Wells
+This 2018 novella kicks off a best-selling series that now includes six other books. It tells the story of a violent, AI-powered android as it searches for meaning and engages in relationships.
+This novel is a great way to explore theintersection of social-emotional learning and technology, said Nicholas Bousquet, who teaches computer science at Plainfield High School in Central Village, Conn.
+“Wells imagines a nameless, company-owned [robot] who is wrestling with many of the same challenges facing young adults today, including mental health, social anxiety, morality and ethics in a corporate context, and the nearly irresistible allure of screen time to escape it all,” he said.
+
+Ender’s Game by Orson Scott Card
+This 1985 novel, the start of a series, explores children’s unique and terrifying role in a world where Earth has a war with an alien species—with clear parallels to the Cold War between the United States and the Soviet Union, which had the citizens of both countries seeing each other as the enemy.
+The story, which takes place in a dystopian, morally gray world, is a great springboard for discussing ethics, said Pam Amendola, an English teacher at Dawson County High School in Dawsonville, Ga. She has used the story to spark discussions on questions such as: “What is a moral compass?”
+She relates the societal upheaval in the story to technological change in society today, brought about in part by AI. That “creates a pause for them to have that introspective moment and ask themselves, ‘is this right?’ That’s what literature has done in the past. It’s provided a point of reflection for many, many, many different topics.”
+‘The First Sally, or Trurl’s Electronic Bard’ by Stanislaw Lem
+This short story, published in 1965, tells the story of an inventor who creates a technological “bard” that can be prompted to write poems—more than a half century before ChatGPT was introduced. It’s worth noting that Google named it’s AI chatbot “Bard.”
+Matt Johnson, who teaches physics and artificial intelligence at Whitney High School in Southern California’s ABC Unified school district, said he likes using “short stories, particularly those I can find for free online—which tend to be a bit older. I’m a big fan of Isaac Asimov and Stanislaw Lem for these things because they are big on ideas, but they write with accessible language and structure.”
+
+‘Folding Beijing’ by Hao Jingfang
+This Chinese novelette, published in 2012, takes place in a future Beijing that’s become vastly overcrowded. Many jobs have been lost due to automation and physical space is a premium. Lower class people spend their days sleeping underground, only awakening at night to clear waste, much of it created by the technology used by the upper classes.
+The story explores both the physical waste that AI products create and looks at how the rise of automation might displace many workers.
+That gives students a glimpse into AI technology’s potential environmental consequences, said Jeremy Sell, an English teacher at Magnolia High School in California’s Anaheim Union High School district. “We have all these cool gadgets and all this cool tech,” he said. “But what’s the real-world impact?”
+Frankenstein by Mary Shelley
+Shelleystarted this novel when she was just 18, not much older than most high school students. Published in 1818, it’s the story of a scientist who imbues life into non-living matter, with devastating consequences.
+This Gothic classic may seem a far cry from robots and large language models, but its central themes are clearly relevant to the conversation on AI.
+“I think Frankenstein is a great place to start,” said Hale Durant, who worked as a high school librarian before becoming an implementation specialist at ai.EDU, a nonprofit that works to promote AI literacy. “When humans try to create something that is intelligent, the intelligent thing typically doesn’t behave the way they expect it to.”
+
+Girl Decoded: A Scientist’s Quest to Reclaim Our Humanity By Bringing Emotional Intelligence to Technology by Rana el Kaliouby
+This 2020 memoir—which teachers say reads like a novel—tells the story of el Kaliouby’s work at the Massachusetts Institute of Technology, which focused on getting machines to read human emotions.
+The book wrestles with what it’s like “trying to be a woman from the Middle East breaking into tech,” said Chad McGowan, who teaches computer science at Ashland High School in Ashland, Mass. “It is definitely very relatable for some of my students to just hear about that struggle.”
+The book also offers plenty of fodder for McGowan’s students to delve into some of the big ethical and governance questions surrounding AI—as well as think about what informs their own principles, McGowan said.
+‘Valedictorian’ by N.K. Jemison
+This short story, published in 2012, tells the story of a teenage girl who is part of a society consisting of the last remaining humans, in a world dominated by artificial intelligence. Her success in school might lead her to be handed over to an AI-human hybrid system.
+This is a “crowd favorite,” said Bousquet. “‘Valedictorian’ poses important questions about what teenage individuality, leadership, and resistance might look like in a near-future dystopia dominated by intrusive technology.”
+Bousquet adds that LeVar Burton’s “superb” reading of the story—available on Spotify— “is anexcellent [tool]for students working to close literacy or learning gaps.“

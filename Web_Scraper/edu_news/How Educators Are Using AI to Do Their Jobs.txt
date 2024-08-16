@@ -1,0 +1,22 @@
+More than a year sinceChatGPTand other generative AI tools entered the K-12 scene, educators are slowly experimenting with them.
+One-third of K-12 teachers say they have usedartificial intelligence-driven tools in their classrooms, according to an EdWeek Research Center survey, which included 498 teachers and was conducted in November and December.
+These AI tools can instantly generate a written response or an image to seemingly any prompt.
+
+Many artificial intelligence experts have touted the technology’s potential to transform education into a morepersonalized learning experienceand to help educators become way more efficient at their jobs.
+There are downsides to the new technology: It could produceinaccurate or biased responsesbased on faulty data it draws from, and it could cause huge data privacy problems.
+Districts also don’t often have the expertise they need to train their staff on new and emerging technologies, so most educators haven’t tried AI at all.
+When asked how they were using AI to do their jobs this school year, 52 percent of educators said they don’t use it at all, according to an analysis of responses to an open-ended question from a separateEdWeek Research Center survey of 595 district leaders, school leaders, and teachersconducted in December and January.
+
+But for those who do use AI, here’s how they say they’re using it.
+For administrative work and materials for students
+
+Teachers mostly use ChatGPT and other generative AI tools to create lesson plans, build rubrics, compose emails to parents, and write letters of recommendation for students.
+For instance, April Edwards, a 6th grade social studies teacher in Texas, haspreviously told Education Weekshe’s used it “to help create lesson plans, presentations, write emails, and to create checklists. AI is a great resource to use as an initial starting point for a task or to give you ideas.”
+For grading student work or checking for plagiarism
+
+Using AI to grade student work is less popular. Many teachers are wary of outsourcing this responsibility, especially on assignments that call for making subjective decisions about students’ writing or ideas. Still, some educators, like those who are part ofCode.org’s pilot project, are trying it.
+Others know very little about AI so they’ve barely experimented
+
+Aprevious EdWeek Research Center surveyfound that one of the major reasons teachers aren’t using AI in their work is because of a lack of knowledge and support for how to use AI tools effectively and appropriately.
+
+Data analysis for this article was provided by the EdWeek Research Center.Learn more about the center’s work.

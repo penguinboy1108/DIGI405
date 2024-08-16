@@ -1,0 +1,34 @@
+Chalk up another entry on the list of jobs that artificial intelligence might be able to take on in schools: instructional coaching.
+New research shows that receiving feedback from an AI observer prompts teachers to engage more deeply with students during class—leading them to more regularly acknowledge student contributions and encourage their questions.
+The newstudytook place in an online course with adult learners. But the researchers say that the AI feedback tool could have a place in K-12 classrooms too, a way of providing more consistent feedback to teachers than one or two coaches would have time for.
+
+Some organizationsare already piloting a similar strategy with tutors. Saga Education, a tutoring nonprofit that works with school districts, has partnered with researchers at the University of Colorado Boulder to develop an AI trained on guidelines of effective tutoring that can assess sessions based on those markers.
+Still, adapting the tool used in this study for a school setting would require careful consideration about how it could be best deployed, and who would have access to observation data, said Dora Demszky, an assistant professor of education data science at Stanford’s Graduate School of Education, and the lead author on the paper.
+Many teachers already juggle dozens of tech tools in the classroom, she added.
+“We don’t just want to add one more thing to that, and for it to feel as a burden rather than something that supports them,” Demszky said.
+What AI coaches can do
+Instructional coaching is different from other types of professional development that teachers receive. Instead of a one-off general lecture, teachers get tailored feedback on their practice from a trained observer.
+But this kind of support requires time and resources. Not every school or district has instructional coaches—and even when they do, many teachers may only see them a few times a year. AI presents a possibility here: The chance to get more regular feedback at a much lower cost.
+The researchers, led by Demszky’s team at Stanford University, developed an AI tool that would read and analyze transcriptions of recorded class sessions, called M-Powering Teachers.
+They trained the tool to look for teachers’ uptake of student contributions in the transcripts—instances when the teacher acknowledges and validates students’ ideas during class discussions or in response to teacher prompts. This kind of discussion that elevates student voice has proved hard to improve through interventions.
+The study took place in a 5-week online coding course administered by Stanford, serving more than 10,000 students from across the world. The 1,136 instructors were divided into two groups—one that received reminder emails to check the feedback from M-Powering Teachers, and one that didn’t receive these prompts.
+Instructors who checked the feedback at least once improved their engagement with students’ contributions by 13 percent compared to the control group.
+
+Students whose teachers looked at the feedback were also more likely to say that they were satisfied with the course, though it’s unclear whether this was directly a cause of the prompts or due to some other factor.
+Demszky and her colleagues are now building an open-source version of M-Powering Teachers available for other researchers to use.
+Getting a tool like this into schools could be a force multiplier for coaching, said Taylor Jacobson, a 5th grade teacher at Glenwood Elementary School in Virginia Beach, Va.
+“My reading coach—love her to death, but we have over 1000 students in my school,” Jacobson said. “She’s spread very thin.”
+Ideally, Jacobson said, a coach could analyze feedback from a tool like M-Powering Teachers, giving them the ability to identify trends over time without having to sit in on dozens of classes.
+Insights into how teachers validate student contributions is especially important now, said Liz Matheny, a teacher specialist for innovative learning in Frederick County schools in Maryland.
+
+“It takes a lot of confidence for a student to actively participate in class like that, and I think some of our students struggle with that post-COVID,” she said.
+‘It’s not perfect’
+There are challenges to bringing something like M-Powering Teachers into the classroom, the researchers note.
+First, the technical challenge: It’s harder to set up and manage recordings in a physical classroom than in an online setting. Speech recognition tools struggle in noisy settings, and they aren’t as accurate with voices that don’t speak Standard American English, the researchers write.
+But there are ethical and privacy considerations, too. The tool could be especially useful for new teachers, who are still learning the craft, Matheny said. But she wouldn’t want to see a recorded mistake used against a teacher, she said.
+“I could also see the recording taken out of context,” Matheny said. “There would need to be clear guidelines about who would have access to the recording and its use.”
+Demszky emphasized that the feedback isn’t designed to be used in a punitive way. M-Powering Teachers gives suggestions and strategies about how to improve, not an evaluation, she said.
+
+These concerns predate AI coaching. Questions about how feedback would be used, and whether it could penalize teachers, have swirled around video observations andtech-enabled real-time coaching.
+The tool also isn’t foolproof, Demszky cautioned. It can make mistakes, like other AI that processes and analyzes human language.
+“Because it’s not perfect, we wouldn’t want it to be used in any high-stakes decisionmaking,” she said.

@@ -1,0 +1,22 @@
+A growing number of teachers are using AI-powered chatbots for work, but there’s a gap opening up among younger and older teachers,concludes a new research study.
+The study—conducted by Impact Research, a polling and research firm— found that large shares of educators also report that they are receiving little guidance from schools on how they should be using the technology.
+Those are some of the key findings from the survey, which seeks to map out how teachers, students, and parents are using AI chatbots—arguably the most visible and accessible of AI technologies for public use.
+
+The survey included 1,003 teachers and was conducted in May on behalf of two philanthropic organizations: the Walton Family Foundation and Renaissance Philanthropy.(The Walton Family Foundation provides support for Education Week coverage of strategies for advancing opportunities for students most in need. Education Week retains sole editorial control over its coverage.)
+The percent of teachers using ChatGPT for school-related work has climbed 9 percentage points since February 2023, even as teachers’ favorable feelings toward the technology have dipped 11 percentage points in the past year.
+Nearly half of teachers say they use ChatGPT at least weekly for work. Fifty-nine percent have a favorable view of AI chatbots overall.
+The Impact Research survey underscores that AI chatbots are more than a fad and may be on their way to becoming a staple in K-12 education, said Kumar Garg, the president of Renaissance Philanthropy. He is also the founder of the Learning Engineering Virtual Institute, which supports research at universities to develop technological approaches to improving middle school math instruction.
+
+“What jumped out to me is that there is a lot of curiosity and cautious optimism that this can actually be really useful,” he said. “If you look at the headlines, most [say] people are worried about AI and all these negative things.”
+Lack of professional development about AI seen as a problem
+But adoption among teachers is uneven—particularly so among older and younger teachers, the Impact Research survey found.
+Teachers who are 45 and older were substantially less likely than their younger counterparts to say they felt confident in their ability to use chatbots effectively—53 percent compared with 71 percent of teachers who are younger than 45.
+
+While generational gaps in adopting new technologies are to be expected, a lack of professional development andclear policies on AIfor schools are likely exacerbating that age gap, said Garg, who previously worked in the Obama White House as an advisor on technology, science, and STEM education.
+“We’re still in the early period where a lot of schools haven’t put together policies on this stuff,” he said. “A lot of adoption is being done by teachers on their own because they are interested and trying it, but that’s going to create differentials in use.”
+Teachers 45 and older are more likely to point to a lack of training as a factor preventing them from using AI in their teaching. Younger teachers are more likely to cite concerns over the role of AI in society, AI giving biased information, and whether AI will replace parts of their job or lead to teacher layoffs.
+
+Almost a third of teachers in the survey said that their school has a policy detailing when and how students can use AI chatbots for schoolwork. A quarter of teachers reported that they have received training on using AI chatbots or guidance on when it’s appropriate for them to use AI.
+Even so, two-thirds of teachers said they are allowing students to use AI chatbots for their schoolwork.
+Students’ use of chatbots has surged in the past year, jumping up 26 percentage points compared with an Impact Research survey from February 2023. Half of students now say they are using ChatGPT at least once a week for school.
+While younger teachers are more likely to use chatbots for work, other groups also emerged as early adopters. Black teachers, male teachers, and teachers working in urban schools were more likely to say they use chatbots for work than other groups of teachers.

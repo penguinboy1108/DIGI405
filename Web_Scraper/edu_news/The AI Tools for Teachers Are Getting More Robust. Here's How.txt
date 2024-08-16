@@ -1,0 +1,30 @@
+Big ed-tech players are adding generative artificial intelligence tools to existing products already popular in the K-12 world. While some educators and AI experts are excited, they say these new tools make the need for teacher training on AI even more urgent.
+Google is providing Gemini—its generative AI model—as an add-on for educational institutions using its Workspace for Education product. A lower-tier version of Gemini Education provides access to generative AI features in Google’s Workspace apps, such as Docs, Sheets, Slides, and Gmail, and access to the Gemini chatbot. The premium version offers additional features, such as AI-powered note taking and summaries in Meet.
+Khan Academy and Microsoftare partnering to provide free access to Khanmigo—its AI powered teaching assistant—for teachers. Both tools can help educators with administrative work and creating materials for students.
+
+The announcements come asmore educators try out the emerging technologyand as school districts discuss andcreate guidelines and policies for AI use.
+“This is a great example of the speed of AI tool development,” said Pat Yongpradit, the chief academic officer at Code.org and a leader of TeachAI, an initiative to support schools in using and teaching about AI. “And I’m really happy that the big companies are thinking about how to serve educators, and they’re not just focused on creating general purpose chatbot tools.”
+How do teachers use AI?
+Educators who are using AI have mostly been usingChatGPT or other free AI tools available online. But these releases from Google and Khan Academy should increase access to AI tools, Yongpradit said.
+“If you’re using Google stuff, which zillions of schools are, now you have [AI] stuff to play with,” he said. And Khanmigo being free now is “wonderful, because cost has been an issue with accessing Khanmigo before.”
+
+Mark Erlenwein, the principal of Staten Island Technical High School in New York, has yet to try Gemini, but he has tried Khanmigo and said he’s “impressed” by what he sees so far. With Khanmigo, Khan Academy has provided ready-made prompts and activities that teachers could use. For instance, if a teacher wants Khanmigo to help her create an exit ticket, she would just click that button, input a grade level, subject, and topic, and then Khanmigo will produce the exit ticket.
+In the past, Erlenwein has mostly used ChatGPT, but now with these new tools, “it kind of comes down to: Do you want to go directly to ChatGPT to do the work or do you want to use these platforms that honestly would make it easier for a teacher?”
+
+It’s helpful that Khan Academy has figured out “the mastery behind asking the prompt correctly,” Erlenwein said, “which is what I think is going to be the difference-maker here” because now educators don’t have to spend time figuring out the perfect prompt to ask the chatbot to get what they want.
+Along with increasing access, these tools also most likely have better data privacy and security practices than some of the other free AI tools that have cropped up, Yongpradit said.
+“A hit to [Google’s and Khan Academy’s] reputation is a much bigger hit that has way larger ramifications than some ed-tech startup maybe messing up or not being as careful about privacy and security and age appropriateness and compliance with existing policies,” he said.
+Google said in its announcement that it isn’t using data that users put into Gemini to train its AI model without permission and that it isn’t sharing data with other users or organizations. And Khanmigo, which is powered by the same technology behind ChatGPT, is also not training the AI model. It does use feedback from educators to refine prompts.
+Why training on how to use AI is important for teachers
+Providing access to AI tools is great, educators and AI experts say, but it’s meaningless if educators don’t know how to use the tools properly.
+Schools need funding and time to provideprofessional development for educatorsto understand how to use these tools, as well as how to evaluate the effectiveness of the tools, they say.
+So far, more than 7 in 10 teachers said they haven’t received any professional development on using AI in the classroom, according to a nationally representativeEdWeek Research Center surveyof 953 educators, including 553 teachers, conducted between Jan. 31 and March 4.
+
+“Teachers are going to have to really figure out what makes the most sense for their context,” Yongpradit said. “They still need to have that healthy skepticism and evaluation skills to make the most sense of [what the AI tool produces].”
+Glenn Kleiman, a senior adviser for Stanford University’s Graduate School of Education, said it’s also important to start thinking beyond using AI to improve efficiency. Districts, researchers, and policymakers need to start thinking about the changes in content and pedagogy as AI continues to advance.
+“The advances in AI tools are running ahead of advances in the human capacity to use them well,” he said.
+School districts need to be thoughtful about crafting policies on AI use
+The fast pace at which AI is evolving might make districts feel like they need to respond just as quickly, but they should keep calm and have a thoughtful implementation over time, Kleiman added.
+Erlenwein has always been an early adopter of new technologies, and he’s excited about these new tools’ ability to increase efficiency and productivity. However he is concerned about the lack of research on what effects it will have on K-12.
+“As an early adopter, I’m ready to adopt. But I don’t know if we really know what we’re adopting,” he said.
+Yongpradit of TeachAI said there are organizations that are trying to figure out how to fund the research that’s needed, but it takes time. For now, districts should trust their robust evaluation, procurement, and piloting processes, he said.

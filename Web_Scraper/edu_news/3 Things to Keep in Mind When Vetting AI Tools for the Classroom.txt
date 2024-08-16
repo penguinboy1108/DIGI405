@@ -1,0 +1,21 @@
+Many schools across the country are in the beginning stages of implementingartificial intelligence-powered tools in the classroom.
+Statesand districts have been rolling out guidance on how to use the technology. And one-third of teachers are already using these tools in their classrooms, according toan EdWeek Research Center surveyconducted in November and December.
+As educators try out this new technology, learning how to effectively vet the AI tools will become increasingly important.
+
+In a Jan. 18 webinar hosted by Common Sense Media, a nonprofit that promotes the development of digital and media literacy skills, experts from the organization provided tips for assessing new AI tools. The panel included Steve Garton, a senior manager for the organization’s privacy program; Bianca DeJesus, an editor of learning content; and Jennifer Ehehalt, a senior regional manager.
+Here are 3 tips for deciding whether or not to use an AI tool in the classroom:
+1. Don’t assume your district needs to overhaul its vetting process for ed-tech tools
+District and school leaders need to remember that they already have processes in place to handle new digital tools introduced in the K-12 space, Garton said. Those vetting practices and acceptable use policies are still relevant with AI.
+“The vetting process, the way that you approve apps, the process that you’ve gone through—you have all these things in place,” he said. “Those don’t change just because the word AI is there.”
+
+For example, when assessing whether to use an AI tool in the classroom, educators should examine its data privacy and security practices, whether it’s aligned to the district’s teaching and learning priorities, and if it provides appropriate evidence of its effectiveness.
+Common Sense, which also rates and reviews digital apps, has started reviewing popular AI tools. In its reviews, the organization focuses on whether the tools are engaging, fit with teachers’ pedagogy, and provide support for users, DeJesus said. Educators can also think about those factors when assessing an AI tool, she said.
+2. Pay close attention to privacy policies and terms of use
+While some of the new generative AI tools cropping up are geared toward educators and students, many are made for the general public. That means educators and the teams vetting the tools need to pay special attention to the app’s privacy policy and terms of use, Garton said.
+Those usually will mention what data the AI tools are collecting from users and what they’re doing with it. It’s good practice not to put sensitive information into any of these generative AI tools, Garton said.
+Those privacy policies should also include what datasets the AI tool was trained on, which is important for educators to be mindful of because the responses the AI tool generates could includeinaccurate or biased information. For instance, the free version ofChatGPTdoesn’t have training beyond events that had happened and information that was available after January 2022. So, if you ask it about current events, it would not generate a factual response.
+Many AI companies’ privacy policies note that their tools might not generate factual information and ask their users to use discretion before relying on the content their tools produce. Educators should be reminded of that cautionary note, experts say.
+3. There’s no need to try all AI tools
+Generative AI technology is changing and being updated every day, and new tools continue to crop up. Still, educators shouldn’t feel the need to try everything.
+“If anything, just pick one of these [tools] and start with it,” Ehehalt said. Trying out the tool in small ways can help educators determine whether it fits into their work, their lessons, and the students’ learning.
+In fact, one of every three educators are already doing so. According toan EdWeek Research Center survey, 21 percent of teachers have used AI tools a little, 10 percent said they’ve used them some, and 2 percent said they’ve used them a lot. These educators, in open-ended responses to the survey, said that it can be a very effective tool if used responsibly.

@@ -1,0 +1,9 @@
+To the Editor:
+The article “Welcome to the ‘Walled Garden.’ Is This Education’s Solution to AI’s Pitfalls?” (July 25, 2023) raises important questions about the promise and perils of limiting artificial intelligence to curated datasets. While specialized “walled garden” AI may help reduce risks like misinformation, we must consider who will be the “gatekeeper” controlling these gardens.
+As scholar Safiya Umoja Noble has shown in the bookAlgorithms of Oppression(NYU Press, 2018), even algorithms like search engines do not necessarily provide an equal playing field for all ideas and perspectives. Beyond data representation, we must discuss who gets to design the AI’s parameters and acceptable responses. A walled garden curated by tech companies risks replicating similar biases, no matter how well-intentioned.
+
+As educators explore using AI tools like chatbots, we must ask critical questions about equitable representation in their training data. Whose voices are included or excluded? Just as classroom textbooks once left out the perspectives of many groups, AI could propagate similar biases if the algorithms are not designed thoughtfully and inclusively from the start.
+If tech companies hold the keys to curated AI gardens, they may prioritize profits over providing students with an empowering space for open inquiry and discovery.
+Educators, students, and families—not corporate interests—should shape learning-focused AI’s values and capabilities.
+Rather than AI gardens with firm walls to block out the “weeds” of misinformation, we need more transparent ecosystems where students can safely explore information, question sources, and grow as critical thinkers.
+Jaime MundoSpanish TeacherBlair AcademyBlairstown, N.J.

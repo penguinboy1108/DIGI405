@@ -1,0 +1,15 @@
+
+Artificial intelligence tools can produce an essay on the migratory patterns of waterfowl or President Barack Obama’s K-12 education agenda in seconds—but the work might be riddled with factual errors.
+Those inaccuracies are commonly known as “hallucinations” in computer science speak—but education technology experts are trying to steer away from that term.
+“We know that industry tends to use the term ‘hallucinations’ to allude to errors that are made by [AI] systems and tools,” said Pati Ruiz, a senior director of ed tech and emerging technologies for Digital Promise, a nonprofit that works on technology and equity issues, during anEducation Week webinar earlier this month.
+
+But researchers who think about how to talk about AI recommend using another name for those errors—such as “mistake,” Ruiz said.
+First off, the word “hallucinations,” Ruiz said, “make[s] light of mental health issues.”
+And she added that using that word for AI’s errors “might give students a false sense of this tool having humanlike qualities. And that’s something that we advocate against, right? We advocate for folks to understand these tools as just that, tools that will support us as humans.”
+‘AI systems and tools make lots of mistakes’
+Ruiz noted that she and another expert who spoke during the webinar, Kip Glazer, the principal of Mountain View High School in California,wrote about this issue earlier this year.
+
+What’s more, students need to understand that they shouldn’t take any information that they get from ChatGPT and similar tools at face value, Ruiz said.
+“Generative AI systems and tools make lots of mistakes,” she said. “We need to have expertise across content areas so that we can review the outputs of generative AI. And we recommend always questioning the outputs of generative AI systems and tools.”
+Schools and districts need to make that need for scrutiny clear to teachers and students. “Guidance is really important so that we can all use [AI] effectively and appropriately and in a way that doesn’t perpetuate the biases that already exist in these systems,” Ruiz added.
+To view the webinar in its entirety,register here.

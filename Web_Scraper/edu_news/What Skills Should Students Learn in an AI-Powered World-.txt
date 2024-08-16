@@ -1,0 +1,22 @@
+Artificial intelligence is becoming increasingly influential in our everyday lives. It canwrite anything with a single prompt, recommend music or movies, drive cars, and recognize faces. Experts predict that in the coming years AI will be used in even more aspects of people’s lives.
+Such predictions concern students and teachers. Nearly half of educators who responded to a recent EdWeek Research Center survey saidAI would have a negative or very negative impacton teaching and learning in the next five years. Arecent survey from nonprofit Junior Achievementfound that 66 percent of teens are concerned they may not be able to find a good job as adults because of artificial intelligence.
+Inan April 13 webinarhosted by language learning platform Memrise, five ed-tech company founders discussed howartificial intelligencewill likely change what and how students will learn in school. All five companies are using artificial intelligence in their products and services.
+
+The panelists were Josh Wöhle, the CEO and co-founder of online learning platform Mindstone; Patricia Scanlon, the founder and executive chair of SoapBox Labs, which develops voice recognition software for children; Sarah Touzani, the CEO and co-founder of Waggle, an AI co-pilot for managers; Raza Habib, the CEO & co-founder of Humanloop, which develops tools to make it easier for companies to adopt AI technology; and Ben Whately, the co-founder and chief strategy officer of Memrise.
+What skills will be worth learning in an AI-powered world?
+For Wöhle, students will need to focus on honing their soft skills, or interpersonal attributes, to prepare for future jobs.
+“The evolution of software engineering in the last 15 years can give us a window to understand what the evolution in other knowledge-intensive disciplines might look like in the next two or three [years],” Wöhle said.
+In the early years of software engineering, someone’s ability to code granted them higher status in the job market. But now, the ability to code isn’t in the “top five” skills that chief technology officers are looking for, Wöhle said.
+
+The top three skills that CTOs are looking for when they’re hiring software engineers are the ability to learn, the ability to problem solve, and the ability to collaborate, according to Wöhle.
+“As we move towards a world where we have all of these [AI] tools, those are some of the core skills that will enable you to differentiate yourself in the workplace,” he said.
+How is student testing and assessment likely to change?
+Some educators who responded to a recent EdWeek Research Center survey said they’re worried that AI-powered technologies might hinder students’ ability to think critically and that these tools might make it easier for students to complete assignments without really learning anything.
+Because of the capabilities of artificial intelligence, schools will need to rethink how they evaluate student learning, according to the panelists.
+“The classroom really hasn’t changed that much,” said Scanlon, “neither has assessment in a very long time. It’s time.”
+Schools need to assess “in a more dynamic way, as opposed to static summative assessments or submission of essays,” Scanlon said. “We’re going to have to really get imaginative about how we assess.”
+
+For some grade levels, assessments could look more like a Ph.D. defense, where students show what they learned, Scanlon said.
+Schools could also blend assessments into the background, she said. For example, with some speech recognition technologies, early elementary teachers can assess students’ language learning and reading skills by listening to students interact with each other.
+Assessments are important, because educators need to know whether a student is progressing or if they need a little bit of intervention, Scanlon said. But assessments don’t have to look like kids sitting in front of a computer or at their desk with pen and paper.
+“My vision for the future for assessment would be: Kids don’t know they’re being assessed but they’re practicing, they’re interacting, they’re being playful,” Scanlon said. “It’s engaging, it’s fun, it’s dynamic, but we’re still progressing along.”

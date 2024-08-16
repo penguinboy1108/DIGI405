@@ -1,0 +1,14 @@
+The use of artificial intelligence is expanding rapidly in K-12 education, but states’ AI policy guidance for schools is not keeping pace, concludes ananalysisby the Center on Reinventing Public Education at Arizona State University.
+Just two states—CaliforniaandOregon—have provided official AI guidance to schools. Another 11 are in the process of developing guidance: Arizona, Connecticut, Maine, Mississippi, Nebraska, New York, Ohio, Pennsylvania, Virginia, Vermont, and Washington. Twenty-one states said they are not planning to release guidance anytime soon, according to the analysis.
+The remaining 17 states and the District of Columbia did not respond to CRPE’s inquiries and do not have AI guidance publicly available, the report said.
+
+Those findings suggest that the “majority of states still do not plan to shape AI-specific strategies or guidance for schools in 2023-24,” the report said.
+Students in states without guidance may be “subject to more haphazard, divergent, and inequitable impacts [of AI], all while the technology continues to advance at a remarkable pace,” the report said.
+What’s more, recent focus groups the organization held with school and district administrators revealed local leaders “would like more state guidance on using generative AI ethically and responsibly.”
+CRPE’s findings jibe with areport released earlier this fall by the State Educational Technology Directors Association, which found that just 2 percent of state education technology officials said their state had initiatives or efforts underway to provide guidance on AI.
+
+In fact, more official recommendations may come from the federal level before many states release their own. Asweeping White House executive order on AIreleased Oct. 30 calls on the U.S. Department of Education to develop AI resources, policies, and guidance within the next year.
+That guidance is to include an “AI toolkit” for education leaders to help schools figure out how to use AI in compliance with privacy laws and regulations, and make sure humans are able to review decisions made by the technology.
+Education organizations step up to fill the AI guidance void
+For now, education organizations are stepping up to fill the AI guidance void. For instance, the Council of Great City Schools and the Consortium for School Networkingreleased a list of 93 questions for schools to consider when using AI.And Teach AI, an initiative launched by a cadre of nonprofits to help schools think through AI guidance and policy, offered another piece of practical advice:A toolkit of principles to think through when crafting AI guidance.
+Districts are also making moves to develop their own policies. New York City, for instance—the nation’s largest public school district—islaunching an AI policy lab for K-12 education.

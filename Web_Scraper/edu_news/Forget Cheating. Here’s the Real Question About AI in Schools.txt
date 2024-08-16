@@ -1,0 +1,24 @@
+Richard Culatta, the CEO of the International Society for Technology in Education, feels like the conversation around artificial intelligence in K-12 schools has turned a corner.
+Instead of focusing on cheating, educators are starting to ask themselves what and how students should be learning in a world where generative AI tools such as ChatGPT-4can pass almost every Advanced Placement test.But those questions are also arising at a time when many educators are uneasy about the role of AI in schools and its tendency tospit out wrong informationandmagnify societal bias.
+
+He’s hoping those questions and concerns will be a central theme of ISTE’s conference, which will be held in Denver June 23-26. (Two Education Week writers will be covering a host of sessions and news from the conference.)
+
+Culatta spoke on Zoom about where he wants to see the discussion on AI head next; what’s going on withStretch AI, ISTE’s own “Walled Garden” ChatBot; the challenge of the end of federal COVID relief funding, and other topics.
+
+This conversation has been edited for length and clarity.
+There is a level of maturity to the AI conversation that we’re just getting to.
+For a while, the conversation was “cheating or not cheating?” And then it morphed into, “Look at all the cool tools!” Neither of those conversations are really all that helpful.
+
+The conversation that we really need to be having is: How are we thinking about redesigning learning for an AI world? What does that mean for skills for students? What does that mean for skills for teachers?What does teaching and learning need to look like in the AI world?
+Giving the types ofassessmentswe’ve given in the past just doesn’t work in an AI world. And that’s OK, frankly, because most of the assessments given in the past were terrible. This is a chance for us to build better assessments. And that’s exciting.
+But there’s a second part of it, which literally doesn’t have anything to do with the tools themselves.What are the human skills that we need to be doubling down on?I don’t think we know that, partially because we’ve never had to justify what is a uniquely human skill. If there was any higher order thinking, it was always humans that did it. We’ve never had tools that could come close to competing with us on that.
+What are uniquely human skills? We could debate that, but creativity is one. Civility is one. Discernment is a really important one. AI is really good at generating lots of possibilities, far better than humans. But what it’s not very good at is discerning what’s the right path forward? What’s the right decision?
+So, if we think about those as uniquely human skills, what does that mean for how we design school? We’re not designing school in ways that really double down on making sure every human is really on their A game with those uniquely human skills. And we should be. We need to be.
+We’re really looking at how we can useStretchAI to help bridge the research-to-practice gap.
+
+There’s a lot of really important education research that’s been written. Unfortunately, it’s written in formats that are very hard for teachers to read. And it’s published in peer-reviewed journals that are very hard to get access to.
+Can we train stretch AI on actual education research and have it do the translation so that it can say, “hey, here’s what you need to know from the research articles,” but in ways that are simple and accessible for educators?’
+We’re at a time where we need to be more thoughtful, in part because of federal funding changing, about what tools and apps are considered high enough quality to put in front of kids. And we have to reduce the burden on schools to figure that out. Every school in the country is wasting a ton of time reviewing all these tools and apps on their own 15,000 times over. And we need to help take some of that burden off so that the school districts don’t have to do it one off, every app.
+We have a session this year, where we brought in some adult-learning experts, so chief learning officers from large companies. We asked them to talk about the trends that they’re seeing in workplace learning and adult learning, and what they mean for how we need to be preparing kids [for the workforce] before they graduate [high school].
+I’m going to have a session arounddigital citizenship. We are going to be releasing a digital-citizenship curriculum. There really haven’t been many options for digital-citizenship curriculum out there. And we’ve created a new one.
+It’s been over a year in the works. It’s starting from kindergarten up to graduating high school. [It’s] pitched in a positive way. It’s not the “list of don’ts” approach that is so unhelpful.

@@ -1,0 +1,24 @@
+Educators and parents of students with intellectual and developmental disabilities are optimistic about artificial intelligence’s potential to create more inclusive classrooms and close educational gaps between students with disabilities and those without, concludesa report from the Special Olympics Global Center for Inclusion in Education.
+However, both groups are also concerned about the possibility that AI use in schools could decrease human interaction and that schools with fewer resources could be left behind, the report found.
+The findings, released July 22, are based on a survey of 500 U.S. parents of children with intellectual or developmental disabilities, as well as 200 U.S. K-12 teachers, conducted by Stratalys Research between June 3-10.
+
+Ever since generative AI technology broke into K-12, somespecial education practitioners have experimented with usingit to speed up some of their administrative tasks.
+But experts saythere still isn’t enough dataon how using generative AI for instruction could affect students with disabilities, and educators should approach the technology with caution.
+Most datasets that AI tools are trained on contain a lot of information about neurotypical students, but they don’t have nearly as much to draw from onstudents in special education, which could translate into technology that isn’t as helpful for those populations.
+Indeed, a majority of educators (66 percent) and more than a third of parents (35 percent) say they don’t believe or are not sure if AI developers are taking the needs and priorities of students with disabilities into consideration, according to the report.
+Many teachers and parents think AI will make education more inclusive
+Still, most parents and teachers have positive views about the emerging technology: More than 7 in 10 parents and 6 in 10 teachers say AI will make education more inclusive, the report found. Additionally, more than 7 in 10 parents also believe AI has the potential to close educational gaps between students with and without disabilities, and a smaller majority of educators (54 percent) say the same.
+The report found that a plurality of parents and teachers believe that AI’s potential to create more adaptive,personalized learningand its potential to help students write and express themselves could have a “major positive impact” on students with disabilities.
+
+The report “reflects the optimism of the parents,” said Margaret Vice, the managing director of FGS Global’s research division, a consulting firm that collaborated with the Special Olympics Global Center for Inclusion in Education on the report. Parents are “eager for anything to help their child grow and learn.”
+Teachers, however, are a little bit moreskeptical, Vice said.
+“Their experience is likely rife with new tech forced upon them, and new ways of teaching, new ideas, new things to learn, without, maybe, the training and the time and the resources put toward allowing them to do that,” she said.
+AI shouldn’t ‘replace relationships’
+Special education experts are optimistic about AI’s potential to create better and more personalized learning experiences for students, too, but they’re also cautious considering the technology is still so new.
+
+“My concern is that [AI] doesn’t replace the relationships,” said Luis Perez, the disability and digital inclusion lead for CAST, a nonprofit that advocates for universally accessible educational materials. “We don’t want to plop a student in front of a computer and have [the kid] just interact with a ‘personalized system.’ There’s a lot more to learning than access to information. I just want to be cautious that when we say personalized, we’re not taking out the human element of what an education for individuals with intellectual disabilities and all students with disabilities should have.”
+A decrease in human interaction is also the top concern of parents and teachers when it comes to increasing the use of AI in schools, according to the report. However, parents are less likely to be concerned about AI’s potential negative impacts than teachers.
+
+AI literacywill be critical to counter the concerns that parents, teachers, and experts have, Perez said.
+“Students, when they move into the workforce, they’re going to encounter AI,” he said. It’s important that “people understand what AI is, what it can do, what its potential is, but also its limitations, so you have a balanced perspective on it.”
+AI literacy is important for educators and parents, too, experts say. Some educators are already gettingprofessional development on the technology, but it’s unclear how much parents know about AI. As schools experiment with these AI tools, experts say they shouldbring parents alongand let them explore and learn alongside educators and students.

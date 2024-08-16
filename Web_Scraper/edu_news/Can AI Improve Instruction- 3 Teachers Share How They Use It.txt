@@ -1,0 +1,39 @@
+Many artificial-intelligence experts have touted AI’s groundbreaking potential to help people become way more efficient at their jobs, and a lot of educators have been trying it out for themselves.
+Sixty percent of teachers said they’ve usedChatGPT—an AI-powered tool that can instantly answer seemingly any prompt—in their jobs, according toa nationally representative Walton Family Foundation survey conducted in June and July.
+Of course, there are potential downsides to the new technology. It can produce inaccurate or biased responses based on faulty data it draws from, and it has the potential to cause huge data privacy problems.
+
+Despite those risks,teachers have used AI-powered toolsto plan lessons, create rubrics, provide feedback on student assignments, and respond to parent emails. And they’re looking for other ways to use the technology to make their jobs easier.
+In interviews with Education Week, three educators described how they’ve used AI tools in their work and how they plan to use them in the future.
+Using AI as a planning tool
+April Edwards, also known as @alldayapril on TikTok, is a 6th grade social studies teacher in Texas. She uses her TikTok account, which has amassed more than 60,000 followers, to share ways that she uses AI in her instruction. Primarily, Edwards uses AI for planning purposes.
+“I use AI to help create lesson plans, presentations, write emails, and to create checklists. AI is a great resource to use as an initial starting point for a task or to give you ideas,” Edwards said.
+
+In one of herTikTok videos, Edwards uses the embedded AI assistant, “Magic Write,” in the graphic design tool Canva to create a “6th grade lesson on dinosaurs.” It gave Edwards an entire lesson plan broken down by time dedicated to each topic.
+In that same video, Edwards showed examples of how to prompt the tool to create a template for emailing parents. After inputting “professional email from a teacher to a parent about upcoming field trip,” the Magic Write tool created an email template, which Edwards would only have to replace with the specifics, such as students’ names and the field trip time and location.
+
+Edwards began to use AI tools, such as the Canva Magic Write, in the spring of 2023, after it had been out for a few months. However, she still has not introduced AI to her students, because she wants to fully understand it before allowing students to use it in the classroom.
+“I have not let my students use AI yet, but I plan to incorporate it this school year,” Edwards said. “My goal is to show them how to use AI responsibly and effectively and model that for my students. If I am using AI irresponsibly, then so will my students.”
+While she advocates for AI use by teachers, she thinks if AI begins to replace the role of teachers, that would be going too far.
+“There are so many things that a teacher does that AI would never fully be able to replicate a wonderful teacher,” Edwards said.
+
+Still, Edwards believes that AI is the future of education. While only a few other teachers in her district use AI, Edwards thinks all teachers should start learning how to incorporate it into their classrooms.
+“Whether it is a year from now or 10 years from now, eventually, AI will be incorporated in education,” Edwards said.
+For teachers who want to start using AI, Edwards has some suggestions on where to start.
+“My advice is to start using AI with platforms that you are already familiar with,” she said. “For example, I use AI inside of Canva for Education. Canva is a tool that I use everyday, so when they implemented AI into their platform it was easy and fun to play around with it.”
+Helping English learners with assignments
+Mike Kerr, a high school English-learner teacher in Tennessee, uses ChatGPT to reduce Lexile levels—the measure for how difficult a text is—for his students.
+As an English-learner teacher, Kerr uses most of his class time to teach the content he’s supposed to, such as the alphabet and high-frequency vocabulary. But he often saves time at the end to help students with any assignments they’re having trouble with—usually reading assignments.
+
+High school students are often assigned to read relatively complex classic novels, such as1984,Of Mice and Men, andThe Great Gatsby—texts that have archaic language or specific vernacular. Those reading assignments “can be a real big task for an English learner in their first couple months here,” Kerr said.
+To help students with those reading assignments, Kerr uses his planning period to use ChatGPT to give summaries of works of literature or to help answer whatever questions other teachers are asking his students, so he can better guide them through the text or assignment. Using ChatGPT saves him time from having to read all the assigned literature to help each student.
+
+For instance, one of Kerr’s students had to read William Shakespeare’sJulius Caesarand find evidence of ethos, logos, and pathos.
+“He’s never seen anything like that before,” Kerr said. “He was feeling really anxious because it was hard for him to connect to the text.”
+So, Kerr copied and pasted the prompt into ChatGPT. They read ChatGPT’s answer together and then opened the book and found the answer in the original text of Shakespeare’s work. After that, they talked about how they could put the answer in the student’s own words. Kerr never has students use ChatGPT unsupervised.
+“Stressing that process of finding information and then citing the evidence, finding where it is literally found—because ChatGPT has a record of giving inaccurate information—had a tremendous effect of reducing the student’s stress,” Kerr said.
+Streamlining feedback on student work
+Dyane Smokorowski, the coordinator of digital literacy and citizenship for Wichita Public Schools in Kansas, said she’s been thinking of ways to streamline feedback on student work through learning management systems like Google Classroom or Canvas this school year. She hopes students can become acquainted with AI through teacher-controlled activities that engage them in conversation with ChatGPT.
+Smokorowski said the process she imagines goes like this: A student is writing a draft of an essay in the learning management system and then asks the teacher for specific feedback on part of the essay. The teacher, in turn, copies the feedback request into ChatGPT and gets a response to review before passing the feedback back to the student. This has the potential to save teachers time and, as a consequence, create opportunities for teachers to feature more writing assignments in their instruction.
+“It’s a writing coach, it’s not rewriting their content or putting their voice in,” Smokorowski said. “At the end of that back-and-forth experience, I’m going to ask the students to write a reflection on where they began in their writing, the feedback they received, what they think now, and what they learned about being a better writer.”
+Smokorowski also said she uses ChatGPT to make accommodations for student interests and learning challenges. Because she does not have knowledge on every learning difference or middle school pop-culture trend, she can ask ChatGPT to provide a writing sample for students to interact with, which makes personalized lesson plans much easier to craft.
+“If I have a student who completely disengages because he does not feel like it’s relevant or I have a student who might be excited about e-sports or science, I can tap into that student’s passion and personalize this lesson to build engagement,” Smokorowski said.

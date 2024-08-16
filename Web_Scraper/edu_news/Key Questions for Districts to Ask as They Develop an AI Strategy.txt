@@ -1,0 +1,27 @@
+Many school districts are figuring out how they will use generative artificial intelligence for teaching and learning.
+The conversations usually revolve around three big themes:creating guidance and policies, building up educators’ and students’AI literacy, and evaluating available tools, according to Tara Nattrass, the managing director of innovation strategy for ISTE/ASCD, a nonprofit that provides technology and curriculum advice to schools.
+Experts say it’s important for districts to start having these conversations so that their students don’t fall behind on the skills expected of them when they enter the workforce.
+
+Teachers who haven’t tried out the emerging technologysay it’s because they haven’t received any guidance or training on it, according to EdWeek Research Center survey data. So far, 15 states have releasedguidelines for how districts should think about generative AI usein the classroom.
+In a June 24 panel discussion at the International Society for Technology in Education conference here, four experts shared advice for how to navigate the challenges that come with figuring out an implementation strategy for AI.
+The panel, moderated by Nattrass, included: Greg Bagby, the instructional technology coordinator for Hamilton County schools in Tennessee; Vera Cubero, a digital teaching and learning consultant for the North Carolina Department of Public Instruction; Stacie Johnson, the director of professional learning for Khan Academy; and Erin Scully, the associate vice president of product design for ETS, the nonprofit that develops tests including the SAT and GRE.
+A district AI policy isn’t the most important priority
+Creating a policy is not the most important step districts should worry about, according to the panelists.
+
+“It seems like people always want a policy for everything we do,” Bagby said. But because of how fast generative AI is moving, those policies could be moot before a district even completes its bureaucratic process for finalizing it.
+What districts should focus on instead are guidelines that allow for flexibility and processes for examining tools and uses of AI, the panelists said.
+If state lawmakers or school boards require districts to create a policy, “the policy has to be wide open because things change every day,” Bagby said.
+Instead of creating a whole new policy dedicated to AI, districts could update their existing acceptable use and academic integrity policies to address any problems related to generative AI, Bagby said.
+Districts should consult everyone who will be affected by any guidelines or policies, including students, teachers, and parents, throughout the process, the panelists said.
+How to help teachers build their AI literacy
+To ensure teachers are ready to use AI effectively in the classroom and to model that use for students, North Carolina has invested in AI-focused professional development, according to Cubero.
+
+The state’s Department of Public Instruction hosted AI collaboratives of educators to train teachers on how to use different AI tools. As part of that training, teachers were tasked with creating guidelines on how to use AI. The department has also had AI summits focused on policy development. And it has regional consultants training educators across the state.
+“We’ve all been running as much as we can to try to help support as much as we can,” Cubero said. This upcoming school year, the department also hopes to have a train-the-trainer model so that every district in the state will have at least one person ready to train teachers.
+AI product developers also know they have a role to play when it comes to ensuring educators have the support they need to effectively use AI tools.
+“We do a lot of co-designing with teachers and district leaders, understanding what they’re looking for and developing [AI literacy],” Scully said. “How can we support that?”
+For ETS, Scully said, the question is: How should it use generative AI best practices in its product development and then how can it build AI tools to support the learners using ETS products?
+For Khan Academy, a lot of that work includes listening and responding to what teachers are telling them about the challenges they’re facing in their work and as they use the products, Johnson said.
+Questions to ask when evaluating AI tech for schools
+The panelists developed a list of questions and considerations district leaders should think about when evaluating AI tools:
+“Remember that as an education leader, your procurement dollars are your power,” Cubero said. “With these vendors, ask questions and ask for revisions. Talk to them about what’s not going to work for you.”

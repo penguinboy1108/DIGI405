@@ -1,0 +1,54 @@
+A machine istrained to write deceptively humanlike poetry. Childrenlearn mostly passively, through mechanical devices. Genius is defined asidentifying the right questions to ask an all-knowing entity—but strange things happen if you try to joke around with it.
+No, these aren’t anecdotes about how artificial intelligence is changing K-12 education—or the world. They are the premises of science fiction stories written more than a half-century ago by Isaac Asimov or Stanislaw Lem that bear an eerie similarity to today’s headlines.
+For educators seeking to help studentswrap their minds around the societal change AI might spur, and its moral and ethical implications, fiction has become an indispensable teaching tool. After all, writers imagined how recent technology developments might change the world long before engineers and programmers created them.
+
+“For students to have a sense for where things are going in technology, you really need to have science/speculative fiction in addition to non-fiction,” said Matt Johnson, who teaches physics and artificial intelligence at Whitney High School in Southern California’s ABC Unified school district.
+Many of Johnson’s AI students—who are mastering high-level computer science skills—need the context fiction can provide.
+“Learning to do STEM is typically more about having [students] gain specific technical skills rather than broader awareness to help them understand the consequences of technology,” Johnson said. “You can, of course, explicitly teach those concepts without the use of fiction, but if you simply teach it in a lecture then students will tend to just memorize specific ideas rather than make connections themselves.”
+Teaching AI beyond computer class
+Fiction also offers an on-ramp into AI for students who aren’t hooked by codes and algorithms.
+
+Those students can “have fun thinking about the technology in a non-technical way. It allows [them] access into a space that’s been reserved for engineer-type minds.” said Hale Durant, who worked as a high school librarian before becoming an implementation specialist at ai.EDU, a nonprofit that works to promote AI literacy.
+And more technical-minded students may find an appreciation for reading that they can’t get from English class standards.
+“They don’t really care so much aboutThe Scarlet LetterorThe Old Man and the Sea,” Durant said. But if they get to explore issues of “AI and futurism you might win over a few more readers,” he added.
+Maybe most importantly: Using literature to teach about AI ensures that discussion of this game-changing technology—which is already influencing how we shop, treat disease, and drive our cars—isn’t confined to a few, typically elective courses, Durant added.
+“If we don’t use science fiction or classic literature to learn about AI, then AI stays in the computer science realm, or an AI-specific course,” at least initially, Durant said.
+Fiction asks: ‘What could be’?
+Some English teachers are already experimenting with the concept.
+
+When Jeremy Sell, an English teacher at Magnolia High School in California’s Anaheim Union High School district developed an AI and Science Fiction class as a summer school enrichment, he paired fact-based pieces about AI—articles and documentaries—with speculative fiction exploring similar aspects of the technology.
+One theme: The environmental concerns created by AI’s physical presence—and what exactly that physical presence is.
+“I’ll ask them, where is AI? What’s the cloud? And they’ll look up,” Sell said. In fact, AI is “very, very physical,” relying on massive server farms, he explained to them.
+To illustrate the point, he showed his students an infographic detailing the life cycle of an Echo, Amazon’s AI-powered assistant, and a documentary about Agbogbloshie, a massive e-waste dump in Africa where “a lot of our tech products go to die,” Sell said.
+Sell paired those factual pieces withFolding Beijing, an award-winning 2012 Chinese novelette about a future in which many jobs are automated, leaving huge numbers of people unemployed and putting physical space at a premium.
+In the story, the lowest class of workers spend most of their time underground, only coming to the surface for a handful of hours to process waste, much of it created by the technology used by the upper classes. At one point, a character asks why waste management isn’t automated, and is told lower-class workers need something to do or they’ll riot, Sell said.
+
+Together, the story, the infographic, and the documentary allow students to explore questions like: What kinds of jobs will disappear when AI becomes more common and what will that mean for workers? What’s the real-world, environmental impact of the technology that surrounds us? Are its benefits worth these costs?
+It’s possible to probe those questions without bringing fiction into the mix. But, Sell explained, stories can be a hook for students whose eyes glaze over at a film about toxic waste in Africa.
+“Teenagers are only just beginning to get into this sort of thing. And I can lose them quickly,” Sell said. Fiction “can grab the imagination and spark ideas because it’s not limited to what is. It can ask: ‘What could be?’ And that makes it more interesting.”
+What will AI look like 20 years from now?
+Science fiction can also illustrate the grim possibilities of overuse of social media and lack of data privacy—both closely related to the explosion of AI—in a more forceful way than traditional lessons on those topics, Sell said.
+“I can tell them till I’m blue in the face ‘Guys, social media may not be as great as you think it is. There are downsides to giving away all your information and all your privacy and to constantly recording everything you’re doing and putting it out there,’” Sell said. “They could read articles about it. But I don’t think they would feel it the way they would if they read”The Circle, a 2013 novel by Dave Eggers that offers a dramatic take on the dark side of data collection.
+While that particular book includes content Sell isn’t sure is age-appropriate, even for high schoolers, plenty of other fiction explores the human impact of AI’s massive data acquisition.
+
+One example is the short story collectionAI 2041by Kai Fu-Lee and Chen Qiufan, a favorite classroom text for Andrew Smith, who teaches computer science at Woodstock High School in Vermont.
+The stories are set in different global cities 20 years after the book’s 2021 publication—when most of Smith’s students will be in their thirties. Many feature teenage characters.
+For example, “The Golden Elephant,” which takes place in Mumbai in 2041, centers on an insurance company that assesses risk—and adjusts the price of premiums—based on very personal data. When a teenage girl makes a date with a boy from a lower caste, her family’s insurance costs inch up, and her parents demand answers.
+The plot offers students a window into the pitfalls of the mind-boggling data consumption that powers AI, as well as the tendency of cutting-edge technology to reflect centuries-old societal biases. Since different castes often don’t interact much, the AI in the story naturally concluded the teens should steer clear of each other.
+Busting through education’s silos
+Bringing literature into a computer science class or talking about algorithmic bias in an English course can be difficult.
+Computer science classes don’t usually lend themselves to a lot of debate and dialogue, so Smith had to puzzle his way through classroom management challenges he rarely deals with, such as figuring out how to ensure more reserved students had the chance to speak and no one dominated the conversation.
+
+That means adopting “some techniques that English teachers and those whose classes are discussion-based are already comfortable with,” Smith said. (He recommends the podcastDebate Mathfor tips.)
+It can also be tough to find computer science educators who are jazzed about teaching fiction, Johnson said.
+“Because of our siloed secondary education system, the reality is that many STEM teachers aren’t really big readers,” Johnson said. “They can’t draw from the library of personal experience the way you’d expect from English teachers, and they struggle to do things like write qualitative questions for students to ponder or facilitate discussion” of even stories on topics that dovetail closely with their subject matter.
+English teachers may also feel out of their depth talking about AI. But Pam Amendola, an English teacher at Dawson County High School in Dawsonville, Ga., has embraced it. (It doesn’t hurt that she’s a long-time lover of science fiction.)
+Stories that explore AI and its consequences are “timely, and predictive,” said Amendola, who accessed professional development on AI offered through the International Society for Technology in Education. “Teachers should take advantage of the fact that science fiction has a lot to offer, even if it’s scary” to get out of their comfort zone.
+Literary non-fiction: a starting point for the conversation
+For teachers—or students—who aren’t big fiction readers, narrative nonfiction can provide an avenue for delving into the societal impact and ethical implications of AI that technical texts might otherwise miss.
+
+Chad McGowan, who teaches computer science at Ashland High School in Massachusetts, is a fan ofGirl Decoded: A Scientist’s Quest to Reclaim Our Humanity By Bringing Emotional Intelligence to Technology, a memoir by Rana el Kaliouby, whose work at the Massachusetts Institute of Technology focused on getting machines to read human emotions.
+Computer science coursestend to be whiter and more male-dominated than the general school population, McGowan noted. Since his school serves students whose families come from all over the globe, he deliberately picked a book by a female computer scientist who immigrated from Egypt.
+The book reads like a novel, but wrestles with what it’s like “trying to be a woman from the Middle East breaking into tech,” McGowan said. “It is definitely very relatable for some of my students to just hear about that struggle.”
+Once el Kaliouby succeeds in her work, which involves mapping facial expressions, she grapples with who should be allowed to use it and why, offering plenty of fodder for McGowan’s students to delve into some of the big ethical and governance questions surrounding AI—as well as think about what informs their own principles, McGowan said.
+“One student might think AI needs to be government controlled, and a lot of regulation while another might think the open market needs to dictate the direction that AI goes in,” McGowan said. “They can be on opposite ends of the spectrum. But reading the book gives us a point of [starting] the conversation.”

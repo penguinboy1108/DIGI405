@@ -1,0 +1,25 @@
+Most kids have at least some understanding of what generative artificial intelligence is and how it can be used, but they also want more help from adults in learning how to use the tools properly, concludesa new survey from the nonprofit National 4-H Council.
+Before being given a description of AI, most 9- to 17-year-olds were able to express what they think it is and what it can do, the report found. One kid said that AI is “able to learn and train to do specific tasks,” and another said that it can make everyday processes “more efficient and effective.”
+The nationally representative survey of 1,510 children ages 9-17 was conducted by Hart Research, with support from Microsoft, between Nov. 5-16. It explores knowledge and use of AI technology, specifically generative AI tools likeChatGPT.
+
+Joe Fatheree, an education consultant and a former Illinois State Teacher of the Year, said he was “stunned” to see the results that 9- to 17-year-olds are knowledgeable about AI because it’s a “180-degree difference from what I’m seeing in the field.”
+“I find very few [students] who can have very in-depth discussions on what AI is and what it’s not. I find that among staff and administration, too,” he added.
+
+How much kids know about AI
+But Hannah Jones, 17, a high school senior at Gordon Central High School in Calhoun, Ga., said the majority of her peers do have a basic understanding of the technology.
+“It was something that we all discovered really quickly, and I think that’s probably because of the social media presence—people posting about it,” Hannah said. “I wouldn’t say they have a ton of knowledge,” unless they’re more techy like her, but they do have some understanding of it.
+
+Hannah’s experiences align with the survey results, which found that only 8 percent of the survey respondents say they know “a great deal” about generative AI.
+Today’s students have grown up in a world whereAI technologyis embedded into the tools they use daily. Experts say AI is going to become more ubiquitous, so students need to becomeAI literateand prepare for a future where it is all around them.
+
+“Preparing young people for the workforce of the future means ensuring that they have a solid understanding of these new technologies that are reshaping our world,” Jill Bramble, the president and CEO of the National 4-H Council, said in a press release.
+Hannah is learning and teaching about AI as part of the National 4-H Council’s Tech Changemakers program. She’s also heard about it from her high school teachers, as well as the college professors in her dual-enrollment classes. But she hasn’t hadexplicit instruction on AIin those settings.
+While many students are aware ofvarious AI-powered tools and platforms, they don’t use them that often, the survey found. The only tools that a huge majority of kids use daily are search engines. Only 12 percent said they use apps daily that answer questions or write text, a category that ChatGPT would fall under—but 51 percent use them at least once a week. Those who have used ChatGPT say that they’ve mostly used it out of curiosity and to help with homework, the report found.
+Hannah said she uses AI “just about every day.” For her coding class, she sometimes checks her code using ChatGPT to see what errors she’s making. But she said she doesn’t let it do the whole problem for her. She has also used AI tools to double-check the grammar and structure of her essays.
+Students want more AI guidance from their teachers
+However, one-third of those surveyed said they’re not clear about the right way to use ChatGPT as a tool and want teachers to be more involved in guiding them. More generally, 72 percent say they would like to get some help from adults in learning how to use different AI tools, the report found.
+These results echoa recent report from the Center for Democracy & Technologythat found a wide gap between what students say they want to learn about how to use artificial intelligence responsibly and what schools are teaching them right now.
+“I definitely had to teach myself,” Hannah said, “because I didn’t have a lot of outside people telling me, ‘This is how you use ChatGPT.’ The professors mention it, but I wouldn’t say they necessarily teach you how to use it. So that’s kind of been a learning curve for me.”
+Fatheree, who is pursuing a doctorate with a focus on AI in education, said students often ask him questions such as: How does it work? Is there just one AI? When, where, and how do we use it?
+The National 4-H Council survey also found that kids are aware of the benefits and drawbacks of generative AI. A majority (64 percent) said AI will help them in their future careers, but they also realize that it could hinder their problem-solving skills and pose data privacy challenges.
+“It would be nice for there to be more educational opportunities about it,” Hannah said. “ChatGPT, those kinds of things, are going to be around our whole lives and we’re probably going to use them in our careers.”

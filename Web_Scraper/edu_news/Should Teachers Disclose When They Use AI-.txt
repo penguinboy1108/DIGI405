@@ -1,0 +1,37 @@
+More states and school districts are rolling out guidelines and policies for how educators and students can use generativeartificial intelligencein their work.
+Theseguidelinesusually focus on bigger-picture strategies, such as aligning AI use with the district’s mission and vision, thoroughly vetting the tools, and providing professional development.
+But as more teachers try out generative AI tools for their work, some are asking the question that the guidelines don’t always answer: Should we tell students when we’re using AI?
+
+Anecdotally, teachers saythey have used ChatGPTand other generative AI tools to create lesson plans, give students feedback on assignments, build rubrics, compose emails to parents, and write letters of recommendation for students.
+Jacob Singer, a high school English teacher for Bellarmine Preparatory School in Tacoma, Wash., said he and his colleagues have had conversations about whether teachers have an obligation to tell students when they’re using AI.
+“Some teachers were saying, ‘No, we’re teachers. We have gone to school, we practice these skills. We’re proficient, if not highly proficient. This is saving us time. Therefore, we should be able to do those things, and we should not have to tell students about that,’” Singer said.
+But for Singer, not telling students when he uses AI is something he “didn’t feel comfortable with.”
+
+“I feel that no matter what our school policy is, I will always probably tell students when I’m using AI,” he said. “If it’s not written out how I’m using [AI] on the [assignment], I will explain it to them before I go into using it, because that’s my comfort level.”
+However, most educators do not share that perspective.
+An overwhelming majority—80 percent—of educators said it’s not necessary to tell students or parents when teachers use AI to plan a lesson, according to a nationally representative EdWeek Research Center survey of 1,183 teachers, principals, and district leaders conducted in March and April. Most educators also said the same when it came to creating assignments, building assessments, and tracking student behavior in the classroom.
+
+‘There is no need for them to know’
+Many educators simply see AI as just another tool they use in their job—like a calculator or a lesson plan from a curriculum provider, according to open-ended responses to the EdWeek Research Center survey.
+“Using AI to speed up my work as a teacher is not something I feel like I need to share with students or parents,” said a high school career and technical education teacher in Louisiana in an open-ended response to the survey. “Parents don’t know what website I use to create other resources so there is no need for them to know that AI was used to create something else.”
+Other open-ended responses said that the way most teachers have been using AI is just as a starting point, and then they edit whatever the AI tool produces with their own context and ideas. So, it doesn’t make sense to tell students they used AI for brainstorming, they said.
+
+Mark Erlenwein, the principal of Staten Island Technical High School in New York, said “I don’t imagine you’re going to see a lot of teachers giving credit to AI for the creation of an activity.”
+“I don’t give credit to the calculator that calculates all my budgetary calculations. I don’t give credit to Excel for helping me do the budget,” Erlenwein said. “I think we have to come to an agreement as to what intellectual property needs to be relinquished” when we use AI.
+For Erlenwein, transparency is important in areas where “authenticity” and “ownership of intellectual property” counts, he said.
+For instance, if a teacher uses AI to create a sample essay for students to read, the teacher should be transparent about that. But if a teacher uses AI to come up with lesson plan ideas, “I don’t think that’s necessary, because you’re using it as an efficiency tool.”
+Transparency could help model appropriate use
+Experts who have been studying the use of AI in education say that teachers should be transparent with students about how they use the technology, because it helps model appropriate use for students.
+“Since AI is so new and we are all trying to figure out how to best use it, I think it would be great for teachers to share their uses with their students,” said Glenn Kleiman, a senior adviser in the Stanford Graduate School of Education, in an email to Education Week. “AI provides an opportunity for teachers to demonstrate how they learn about and explore using the new capabilities AI provides, by sharing what they do, how they evaluate the results, and things they try that don’t work well, with their students.”
+
+Pat Yongpradit, who leads the TeachAI initiative and is the chief academic officer of Code.org, said that teacher transparency with students could open up questions, such as: How does a person effectively use a generative AI tool? Or when should the user cite a chatbot?
+It’s also “a great opportunity to have a discussion of academic integrity,” Yongpradit said.
+
+Singer agreed that one of his responsibilities is showing students how to use technology—not just “how to make things faster, simpler,” but also “how to use it in a more productive way,” and modeling behavior and transparency is essential for that responsibility.
+Some students agree that when teachers are transparent with how they’re using AI, then students can learn the right and wrong ways to use the technology.
+“When a teacher is clear about how they’re using it, they can show their students that they are not using it in a bad way, and that there is potential for AI to be used for good,” said Yasmeen Galal, a senior at Woodlands Regional High School in Beacon Falls, Conn.
+“Promoting that sort of environment where people are honest about it will ensure that students are using AI ethically or not using it when they’re not supposed to,” Yasmeen said.
+
+For Singer, it’s also about the kind of student-teacher relationship an educator wants to build. He’d rather not be a “sage on the stage,” and not being transparent with his AI use feels like he’s hoarding the knowledge. Instead, he wants “to walk with students and along with them” as they explore this new technology.
+Palash Kapoor, a senior at Sycamore High School in Cincinnati, Ohio, said he would “without a doubt” want to know if a teacher uses AI in their work, and he “wouldn’t take that in a bad way at all, like the teacher is incapable or anything like that.”
+“Students would be very open and appreciative of that fact,” he said. “It helps establish a trusting relationship, which I think is very important in the classroom.”

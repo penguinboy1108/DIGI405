@@ -1,0 +1,24 @@
+As more education companies power their products with artificial intelligence, K-12 decisionmakers more urgentlyneed guidance to evaluate vendors’ claims about what that AI can do.
+That was the message from Andreas Oranje, a general manager in theETSResearch Division, brought to the ISTE 2019 conference last week. He presented 14 questions that educators should ask about any AI-based product they’re considering for their schools.
+First, he emphasized that too many people refer to AI and machine learning interchangeably.
+EdReports.org has become an important source for districts seeking to vet curricular resources for quality. In this July 24 webinar,EdWeek Market Briefwill talk with the organization’s executive director, Eric Hirsch, about its process, how districts are using it, how it responds to criticism from vendors, and what’s ahead. You cansign up here.
+
+“AI is the branch of computer science that has to do with simulating intelligent behavior using machines,” he explained. Scientists started down that path in using computers to simulate human intelligence long ago, Oranje said, citing a 1950 journal article published by A.M. Turing.
+Machine learning, on the other hand, is teaching a machine how known inputs—things we know—and known outputs are related to each other, and then applying them to other situations. That amounts to teaching a machine to repeat a decision process over and over again.
+“In the best case, machine learning is as good as the data that was used to train the algorithm,” said Oranje.
+In a very simple outcome scenario, where the complexity is “yes” or “no” about an outcome occurring, very little data is needed to predict outcomes. But “education is very complex,” Oranje said. “You don’t need just data...you need the right data,” he added.
+K-12 officials trying to understand the “black box” of vendors’ claims about their AI-powered products should ask the following questions, Oranje said.
+Key Questions About Data and AI
+More companies are taking machine-learning algorithm toolkits and plugging them into AI-based products, said Oranje.
+“You do not need to know all the details about machine learning to use it and make it work,” he said, “but there are some things you need to be very well aware of to make this work.” Getting vendors to answer the following questions will help:
+Key Questions About the Algorithm
+Data, algorithms, and artificial intelligence are inherently meaningless until we assign values to them by using and acting upon them, said Oranje. That’s why algorithms need to be explainable, traceable, verifiable and have “an emergency brake,” he said. To get at that level of understanding about a product, educators should ask:
+Key Questions About Efficacy
+The effectiveness of AI-infused products needs to be proven before educators are using them, Oranje said. “It’s not a luxury to address once you have operational data.” To show effectiveness requires “falsifiable hypotheses, reliable metrics and criteria, representative data, and an honest—preferably independent—assessment of efficacy,” he explained.
+District officials should ask the following:
+Oranje said school officials can do their part to advance research on AI’s role in education. “I would love to see more schools and teachers participate in these studies.”
+As for fears that AI will eliminate teaching positions, Oranje is optimistic that it will not. His hope is that AI will “actually expand teaching,” he said, and that there will be a need for more educators, rather than fewer.
+“Think about it,” he said. “At the end of the Industrial Revolution, do we have more or less people working?”
+FollowEdWeek Market Briefon Twitter@EdMarketBriefor connect with us onLinkedIn.
+
+See also:

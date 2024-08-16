@@ -1,0 +1,29 @@
+As the use of artificial intelligence spreads in K-12 education, it’s critical to examine the implications of the technology for those who have been historically marginalized, according to a panel of tech leaders, educators, and mental health experts.
+AI experts have touted thetransformative power of the emerging technology, but many people have also raised cautionary flags. These tools can generate responses based on outdated information or fabricate facts when asked about events that occurred after they were trained on data from a certain time period. They can also generate biased responses andamplify harmful stereotypesabout people who are already disadvantaged.
+Educators who are bringing these tools into the classroom should think about the balance between ensuring Black students have access to these technologies and protecting them from the dangers of tools that are not created with them in mind, said Leah Austin, president and CEO of the National Black Child Development Institute, during a June 26 panel discussion at the International Society for Technology in Education conference.
+
+The panel discussed the ethics of AI and the technology’s impact on Black children. Along with Austin, the panel included Winston Roberts, a teacher at KIPP New Jersey; Kiesha King, the senior national education administrator at T-Mobile; and Jalen Taylor, the affiliate president of the Black Child Development Institute in Colorado.
+Here are 3 important takeaways for educators from the panel discussion.
+1. Know the biases that exist in the design of the technology
+To become part of the solution of creating more inclusive tools, educators need to know first what the problem is, the panelists said.
+“There are distinct differences in some of the things we have to consider as Black parents, for Black children, as people who actually are teaching and educating Black children,” King said.
+
+The priorities, preferences, and prejudices of those who create the technology can shape it to be reflective of their experiences, Austin said. And the people creating the technology often don’t look like the students that use it.
+One example isfacial recognition, which, Austin said, is often not built with the safety and security of Black people in mind. There have been instances where the technology has misidentified or mislabeled Black people.
+2. Know the technology’s impact on students
+AI is so ubiquitous that Roberts’ students mention it without him prompting them.
+One time, he recalled, a student with learning differences who usually wasn’t excited about projects and presenting was suddenly excited to do a project. The student presented the project and Roberts was surprised by its quality.
+He asked the student if he used AI and the student said yes. Instead of reprimanding the student, Roberts said he used it as a teachable moment. He asked the student what tool he used and if he could show the class how he used the tool.
+Teaching students about AI is important because they’ll need to know how to use it effectively in the future, Roberts said.
+
+“All of us, as educators, have to think about not the world as it currently is, but the world of the future,” he said. “A lot of times with my students when they’re complaining about some rule or some class, I have to say, ‘I’m not thinking about what 10-year-old you wants, I have to think about what 22-year-old you needs.’”
+Young people also havefears and anxieties about this technology, Taylor said, so it’s important to build their knowledge and confidence with AI tools. They need to learn how to spot the biases when using the tools, but also how to use the tools in ways that strengthen their skills.
+3. Advocate for better design and standards
+Educators have a responsibility to know about the effects of technology on the children they teach, the panelists said. That means that district leaders and policymakers need to support teachers in learning more about AI, they said.
+With social media, our society was late to figuring out its negative effects on youth mental health, Taylor said. With AI, we need to make sure we keep our eye on its effects.
+“At the different levels [developers, district level, classroom teachers], we need to make sure that we have a throughline of communication with the implementation of AI” so we can mitigate the challenges that are popping up, she said.
+Developers and educators should ensure that AI systems are trained on diverse datasets, and that learners of diverse backgrounds are part of creating these tools, King said.
+
+Policymakers should also create standards that guide the creation of these tools so that it doesn’t harm any subpopulation, she added.
+This work shouldn’t just fall on the shoulders of Black educators, Austin said.
+“We need everyone’s voice at the table,” she said.

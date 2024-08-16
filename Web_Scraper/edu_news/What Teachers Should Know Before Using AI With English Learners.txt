@@ -1,0 +1,31 @@
+As more teachers wrestle with how to address or incorporate generative artificial intelligence tools into the classroom, experts say English learners must also be kept in mind.
+At a late September Education Weekwebinar, researchers spoke of how, while there remain caveats to incorporating AI tools into English language development classes—including the fact that research into generative AI for this particular student population remains nascent—there are exciting ways teachers can explore tools to enhance their instruction.
+“I don’t think AI is going to breed a population of people who can’t think for themselves,” said Christopher Doss, a policy researcher at the RAND Corporation think tank and speaker in the webinar. “I actually think there’s a lot of promise in what AI can do to facilitate teaching, to facilitate critical thinking, and to teach in ways that previously we had been unable to teach.”
+
+To assist teachers in exploring generative AI tools with their English learners, here are some takeaways from Doss and fellow researchers.
+Start small and find what best fits
+What all teachers considering using AI tools should know first and foremost is that there is no need to dive head first into any tool.
+Doss recommends teachers start small, playing around with these technologies first before introducing them into the classroom to get a sense of their strengths and weaknesses. They can then introduce these tools little by little as part of a lesson plan.
+Some ways educators have used generative AI tools with English learners include using the tools to generate essay examples and then having students analyze the quality of the writing sample and how it can be improved, said Xilonin Cruz-Gonzalez, deputy director of the research and advocacy group Californians Together, and a fellow speaker at the EdWeek webinar.
+
+Educators can even explore how various tools can help them personalize support for their students, she added.
+“Education is such an iterative process and a learning process itself, that I think educators rise to the occasion and will find ways to be able to capture the power of AI in classrooms,” Cruz-Gonzalez said.
+Some work is even underway to develop AI tools specifically for English learners as a sort of virtual, customizable tutor for language development, said Lalitha Vasudevan, vice dean for digital innovation and managing director of the Teachers College Digital Futures Institute, at Teachers College, Columbia University.
+Keep caveats in mind
+As teachers play around with AI tools, there are some caveats they need to keep in mind in terms of quality control and privacy concerns.
+To start, teachers need to be cognizant that generative AI tools can create biases if trained on biased data, Doss said. For instance, researchers this year found that some major AI detector tools incorrectly flagged writing by non-native English learners as being AI generated.
+
+To get around some of these biases, Doss advocates for teachers to learn about AI alongside their students. That includes discussing AI’s limits, and how tools can be cited as sources.
+
+When it comes to privacy concerns, teachers need to think about the level of identifying information they provide tools and what companies behind the tools say they will do with that information, including things like birthdays and student progress updates, Doss said. The more general and non-identifying the information, the less the concern over privacy.
+The general danger with using AI tools is when using AI to outsource work such as grading or detecting cheating, Cruz-Gonzalez said.
+And what teachers want to avoid is relying too much on AI tools for instruction, Vasudevan said. This is especially important to consider who students acquiring the English language.
+“While there is great value in incorporating these tools to really strengthen students’ confidence, students’ fluency, students’ ability to engage in conversation using these tools, we shouldn’t let go of what is gained when we do work on a piece of writing,” Vasudevan said. “We work things out in our thinking through writing.”
+Make sure English learners aren’t excluded from new technology
+Even with caveats in mind, Cruz-Gonzalez advocates for teachers and specialists working with English learners to be part of a school or district’s decisionmaking when using AI tools.
+Some unique insights these teachers can bring up to leadership in these conversations include how AI tools can help teachers map out customized learning plans for English learners, how AI translation tools specifically can help students access academic content in subject area classes, and whether AI tools can help evaluate transcripts from immigrant students.
+
+“This is a developing field, and we want people to be aware of it so that they can engage in it, and they can do their experiments,” Cruz-Gonzalez said.
+It’s also important that AI doesn’t replicate longstanding inequalities in education, but instead serves to support increased engagement and both broaden and deepen students’ access to learning, Vasudevan said.
+English learners shouldn’t be excluded from schools’ explorations of AI because it’s here to stay.
+“The jobs of the future, the society that [students are] going to be going into, is going to be one in which they have to use AI in order to enhance whatever task, whatever outcome, or goal they’re trying to work towards,” Doss said. “We need to be teaching students so that they understand it. And we’re all learning this together.”

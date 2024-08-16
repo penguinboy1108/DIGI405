@@ -1,0 +1,67 @@
+ChatGPT has made headlines, gaining traction as the next step in advanced artificial intelligence.
+A chatbot created by research companyOpenAI, ChatGPT is one tool in a category of products called generative AI — technology that can create original content, including text, images, videos, and code, based on data and interactions from users.
+Users are exploring generative AI for a range of purposes, including drafting social media posts, translating different languages, writing essays, and even telling jokes.
+This content creation is based on large language models, algorithms that use deep learning to recognize and generate human-like text. These models have been around for decades, but it is the rapid public accessibility of generative AI that makes it stand out from other versions of artificial intelligence.
+Leaders on the forefront of research say generative AI has the potential to change education, but as with any form of emerging technology, there are mixed opinions about whether schools should fully embrace the new tools or approach with caution.
+Researchers and education companies say generative AI could change the products being developed for schools. The technology can potentially automate feedback that students receive about assignments and transform areas such as assessment and the learning of languages.
+EdWeek Market Briefspoke to industry officials and educators about the implications of generative AI for the market, its potential to improve instruction, and the pitfalls associated with the emerging technology.
+Harms in ‘Overhyping and Undervaluing’
+With the popularization of generative AI tools, critics have voiced concerns that it will contribute to issues like plagiarism, destructive forms of job automation, an overall weakening of student writing skills and creativity, and data privacy vulnerabilities.
+Educators and industry officials offered several ideas for the kinds of school-focused products and features that could be brought into the market in the years ahead:
+
+
+Even so, generative AI is “not really introducing a new set of fears” in schools, said Gillian Diebold, policy analyst at theCenter for Data Innovation. Her organization conducts independent research on the impact of increased use of information on the economy and society.
+“It’s really just the latest integration of concerns surrounding AI and education that have existed for maybe about the last decade or so,” she said.
+Diebold likens the impact of this new generation of AI to the period when things like high-tech calculators, search engines, and spell-check were introduced in schools. Panic ensued as educators worried about an increase of cheating in the classroom. But those turned out to be moments when education was transformed, as schools learned to put boundaries in place and to take advantage of these tools in learning, she said.
+Over time, schools were able to counteract plagiarism with tech-based tools likeTurnitin. If tools likeChatGPTlead to a rash of academic fraud, a new class of detection tools will emerge, she said.
+“We shouldn’t catastrophize the possible negative impacts,” Diebold said. “These tools are going to augment education and accelerate its development. … Overhyping and undervaluing it are both bad in their own ways.”
+The increased level of comfort with remote learning in schools and the integration of technology in education over the course of the pandemic has played a part in the timing of this buzz around generative AI, industry leaders say.
+Others predict more sweeping changes coming to education as a result of technologies like ChatGPT, and say that’s a good thing. The future of education is going to be a collaborative effort between machines and humans, said Cem Dilmegani, founder ofAI Multiple, which provides emerging technology industry insights.
+“My advice, based on what we have seen in different technological innovations, is that people should embrace these as fast as possible, while understanding their flaws,” he said. “We can get amazing value out of [these tools], and it’ll help us work faster, while being aware of the limitations.”
+New Avenues for Personalized Content
+One of the areas in education where generative AI will provide the most benefits, Dilmegani said, is in personalized content creation for courses.
+Over the past few years, manyteachers have left the classroomdue to job dissatisfaction, disillusionment, and burnout.
+Generative AI’s ability to assist in creating personalized educational materials will help alleviate some of the responsibilities that consume educators’ time, Dilmegani said. That will, in turn, relieve some of the burden on educators.
+The automation of personalized content will also help schools with limited resources, Diebold contends. Generative AI has the ability to create quizzes, reading lists, study guides, and summaries — work that can be taken off the teacher’s plate to give them time to focus on more in-depth instructional needs.
+Other areas where generative AI can produce benefits is in creating new streams of individualized feedback for students on their work, education researchers say. Language learning courses can also see benefit in having technology that can replicate natural conversations.
+But concerns about generative AI weakening data-privacy restrictions and students’ online safety are real, said Diebold. There’s also the risk that these new technologies will continue to expand the digital divide — that disparities between wealthy and poor school systems will be exacerbated by access to high-quality technology if companies and governing bodies don’t take steps to ensure equity, she said.
+
+At the educational testing organizationETS, researchers and product developers have already begun thinking about the best ways to incorporate generative AI into their products, while maintaining the integrity and fairness of assessments.
+In the organization’s R&D division, known asETS AI Labs, illustrative generative AI is being used in a product in development. The language learning tool helps learners develop English language skills through a mystery game.
+In one scenario, users are asked to describe the physical appearance of one of the characters in the story, as generative AI draws out what is described. The user can continue modifying the description, and generative AI will update the drawing.
+The company is also looking to provide generative content that is more personalized to the learner.
+Users would provide information about themselves, such as their interests or their career and education goals. The technology will then run a model to customize information to an individual’s context, with the goal of leveraging AI to create lessons that are more representative of and responsive to a wide range of learners from different cultural and socioeconomic backgrounds.
+“We have to learn how to really embrace [generative AI] and use it in a way that can personalize learning and create efficiencies for educators,” said Kara McWilliams, head of AI Labs at ETS. “How can we use generative AI to help [teachers] build their lesson plans and create learning objectives, so they can focus on supporting the student in an individualized way?”
+Bad actors are also top-of-mind at ETS. The organization is trying to anticipate how users would try to gain an unfair advantage using generative AI, rather than representing their own skills.
+To get ahead of this, ETS engineers and scientists have built models that can detect whether responses are being built with auto-generated AI. Other companies have similar products under development, includingGPTZero, an app built by aPrincetoncollege student to detect writing that has been generated by AI. These comparative technologies look for common indicators of a generative essay, such as unnatural word flow, specific word choice usage, and patterns of repetitive typos.
+ETS is also cognizant of the risks, officials said. AI generates information based on the data that is put into those systems. That process canreinforce biasesand produce inaccurate information.
+“Let’s embrace the technology, but also teach about where it can go wrong, where it can be inaccurate, and how you check those things,” McWilliams said. “Computers do some things really well, but not everything. It’s about collaborating and making [teachers’] jobs easier, rather than taking over the job.”
+How Districts are Preparing
+Across the country, district technology leaders are having conversations about how generative AI might be used or misused in classrooms, and how they will adjust.
+During an online forum last month, theColorado Association of Leaders in Educational Technologydiscussed the release of ChatGPT and its impact on their schools.
+The opinions varied greatly, with some wanting ChatGPT blocked immediately, to others who wanted to know how they can guide students in maximizing these tools responsibly. While some likened it to the introduction of high-tech calculators in math instruction and other applications that assist in solving problems, questions also arose about privacy policy and regulatory issues.
+“In the end, everyone recognized that generative AI is here to stay and will only increase in capabilities and scope,” said David Jarboe, who attended the meeting and serves as director of instructional technology and STEAM for theHarrison School District 2in Colorado Springs.
+“This is not a problem to be solved, but a phenomenon to be managed,” one of the members at the meeting said.
+
+Ed McKaveney, technology director forHampton Township School Districtin Pennsylvania, has also heard a mix of reactions to generative AI.
+As a leader for the advocacy groupConsortium of School Networkingand a past chair of the Pennsylvania chapter, McKaveney works with district tech leaders across the country. There’s a consensus among many of them that banning forms of generative AI like ChatGPT is all but impossible. The better approach is to develop guardrails around it to address school concerns.
+“Like it or not, the technology is coming,” McKaveney said. “We have to figure out a way to deal with it.”
+When developed and used appropriately, generative AI can pose many time-saving benefits for teachers, McKaveney said. He also sees the future of such tools to help “level the playing field” for students with disabilities when it comes to overcoming challenges to learning, work, or navigating the world.
+One program McKaveney uses, calledTopaz Denoise AI, helps him quickly process the photos that he takes. Future iterations of generative AI tools like this, customized for classroom settings, could help educators teaching photography, journalism, yearbook, or other media arts courses, he said, because the tool saves time and could help students create higher-quality work.
+But he also has questions about generative AI’s impact in schools — particularly what costs it will carry, if students will have equal access to it, and whether teachers have the tech skill to manage it.
+“It’s not just using a new technology,” he said, it’s about, “how to apply that and evolve learning to help students in the best way that we can.”
+AI With ‘Human Guides’
+Generative AI is also drawing the interest of investors.
+Reach Capitalis a venture capital company based in San Francisco. The company has in the past invested in machine learning and AI tools that are based on natural language processing, some focused on writing and feedback, while others assist in grading. Past AI investments includeDerivita,Replit, andTeachFX.
+Generative AI is a natural next step for exploration, said Tony Wan, head of platform for the company.
+AnEdWeek Market Briefwebinar recently took a deep look at how school systems are attempting to make up for lost academic ground. We heard from a panel of experts, including district officials from Florida and North Carolina. You can watch an archive of the webinarhere.
+
+“We’re seeing a lot of generative AI on our pipeline, so it is very much on our radar,” Wan said.
+The company has already been hearing a lot of pitches from education companies that are using some form of generative AI in their products. Some of those pitches aren’t coming from industry veterans —they’re brought forward by college students and recent graduates, who are aspiring to be the next generation of ed-tech entrepreneurs.
+One example of Reach Capital’s interest is it getting behindKoalluh, a story-generator that empowers students to make and share illustrated narratives using the capabilities of generative AI.
+For companies that are seeking support from Reach Capital, though, the standard is that their product incorporates generative AI to enhance human interactions in schools and cultivate more high-quality learning experiences, Wan said.
+“We don’t believe that good AI means you’re plopping a kid or a teacher in front of a computer to interact with software the entire time,” Wan said. “We look for areas where human guides play a key role in an experience.”
+FollowEdWeek Market Briefon Twitter@EdMarketBriefor connect with us onLinkedIn.
+Image by Getty.
+
+See also:

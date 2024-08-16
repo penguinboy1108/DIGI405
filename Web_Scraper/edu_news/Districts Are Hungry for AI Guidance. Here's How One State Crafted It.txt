@@ -1,0 +1,22 @@
+West Virginia this week became only the third state to releaseguidance on how districts and schools should use artificial intelligence.
+AI-powered tools can craft a surprisingly humanlike essay on the origins of the Declaration of Independence or write a lesson plan on the phases of the moon—sparking questions about student cheating and ethical teacher use. And because these systems develop and iterate by devouring data, there are serious privacy concerns.
+So far, though, only two other states—California and Oregon—have released AI guidance specifically for K-12 education. At least 11 others are in the process of developing it,according to a report by the Center on Reinventing Public Educationat Arizona State University.
+
+That’s a significant gap, given that 55 percent of respondents in an EdWeek Research Center survey last year reported that they were seeing an increased need for guidance or policy around theuse of AI in the classroom.
+West Virginia officials sought to explain how existing laws and policies on issues like cheating and student data privacy apply to AI tools, said Erika Klose, the state’s director of P12 Academic support.
+“There are manyAI products being developed that we know will be marketed to our county school districts. … We wanted to point out that AI is a technology. It’s a new technology. It’s kind of an amazing technology. But it’s a technology nonetheless,” Klose said. “And we already have a lot of policies and safeguards in place. We just need to make sure that whatever we do with AI is in alignment with those policies.”
+This guidance—crafted by officials with a range of expertise at the state education agency—is West Virginia’s “Version 1.0,” Klose said. The state’s work was also informed by atoolkit released last yearby Teach AI, an initiative launched by a cadre of nonprofits to help schools think through AI guidance and policy.
+
+“We made a choice to be very proactive,” Klose said. It’s more efficient to update guidance in response to a challenge or question than to start that process from scratch when a problem arises, she said.
+‘A very fluid framework’
+Once district officials have had a chance to digest the guidance, West Virginia plans an outreach push on AI around the state that will include superintendents, administrators, educators, parents, families, and students, in addition to local industry.
+That will “inform where we go next” in thinking through AI, Klose said. “This is a very fluid framework for what is happening with AI.”
+One key tenet of the guidance: “We can never take people out of the equation” when it comes to AI, Klose said. AI has the “potential to benefit learning. It’s a benefit that has to be approached with caution. But it’s not a benefit that we can necessarily ignore.”
+On student cheating, the guidance recommends that educators see “AI as an opportunity to better our instruction so that we might not be giving as many assignments that students could use AI to complete,” Klose said.
+On privacy, the guidance explains that information put into an AI model, including prompts and questions, could potentially be shared with other users. That’s why staff and students are barred from sharing confidential or personally identifiable information with AI tools without permission, the guidance says.
+
+The guidance also reminds districts that they’ll need to get permission from parents for children under 18 to use generative AI technologies like ChatGPT. Districts should make sure schools are “fully informed about the nature, capabilities, and limitations of the AI technology, as well as the data privacy and security measures in place,” the state officials wrote.
+The guidance provides an explanation of how AI works. And it includes a checklist of factors local educators should consider before bringing AI into the classroom, such as how the technology is being used to supplement—not replace—a teacher; and in some cases, whether AI tools are accessible for students with learning and thinking differences.
+The guidance is clear that AI should not be responsible for writing an entire lesson plan, without teacher review and input.
+At the same time it released the guidance, West Virginia published a collection of resources schools can use to teach about AI in computer science and other classes.
+The early response has been positive, Klose said. “District [leaders] and superintendents already thanked us for it,” she said.

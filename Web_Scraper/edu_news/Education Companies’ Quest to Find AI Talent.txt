@@ -1,0 +1,61 @@
+Education technology companies are increasingly looking totap into the power of artificial intelligenceto improve product offerings and streamline their internal operations — and they need to build a workforce that can make those things happen.
+A number of large, established organizations in the market have been working with AI for years, even though the technology continues to develop as large language models become more advanced.
+But taking on that work requires bringing new talent on board. Companies are now moving quickly to create and fill a variety of new roles that require skill in AI, including engineers with expertise in machine learning, other types of engineers with the ability to manage large datasets and run analytics, and data scientists who can develop algorithms and create automated insight reports.
+For companies attempting to integrate AI into their products for the first time, there’s also a need for workers with specialized skills in that area. But that means they need to tap into new, unfamiliar sources to find the right people.
+EdWeek Market Briefspoke with education company officials and ed-tech hiring professionals about what they’re looking for in trying to fill jobs connected to artificial intelligence, and where their organizations are looking for skilled workers.
+While technical skills are paramount for companies seeking to bring AI into their products and operations, leaders of those organizations also say they look for broader sets of skills in candidates who can help them think through all the implications of using the technology.
+The Human Behind the Machine
+Job candidates interested in education companies’ AI roles must have the technical chops required to handle models that process vast amounts of data.
+In the last year, education services providerCarnegie Learningbrought on seven new team members whose work has a connection to AI or machine learning. These roles include data scientists, content engineers, data analysts, and big data engineers.
+There are a number of important considerations for education companies looking to build workforces capable of producing innovations in artificial intelligence.
+
+In searching for talent, the company has sought candidates with experience in areas like data engineering and real-time and batch data processing. Depending on the role, candidates may also need to be proficient in using big data tools, likeHadooporKafka, and expertise in front-end development usingJavaScriptorAngular.
+But in addition to these specialized competencies, education companies look for individuals with transferrable, non-technical skills.
+Because so much of artificial intelligence is dependent on the data that is fed into those platforms and the judgments of the people who train it, hiring the right candidates who can manage decisions for how the technology is designed and how it functions is essential, said Lindsay Powers, chief people officer for K-12 digital content companyDiscovery Education.
+Her company looks for people who have “the ability to communicate effectively,” as many AI-focused roles work in collaboration with other product teams to bring the technology to life.
+“It’s ensuring that the human application piece is there — the softer skills that [candidates] may not be learning in classrooms,” Powers said. “Because it’s really the humans that are delivering it at the end of the day.”
+Kara McWilliams, vice president of product innovation and development atETS, looks for individuals who have a desire to share their knowledge with their peers.
+She looks for scientists and engineers “who want to drive the field forward just as much as they want to drive our company forward,” she said. “Because that’s how the next, huge movement of AI is going to be — not just companies working in silos, but folks sharing information.”
+In the past four years, ETS has added and expanded upon three roles to support its AI ambitions in product personalization. The company has brought in AI engineers who are experts specifically in machine learning as it relates to personalization, as well as data engineers, who are responsible for building data pipelines.
+ETS also introduced a data science role across the company for the first time four years ago — tasked with developing algorithms and the science behind the work they deliver to customers.
+
+Similarly, leaders at the ed-tech companyInstructureemphasize the importance of soft skills when hiring for AI-focused jobs. In addition to looking for applicants with a baseline understanding of machine learning and relevant professional experience, one of the top traits hiring managers crave is creativity and a “demonstrated history of innovation,” said Zach Pendleton, chief architect for the company.
+During the interview process, candidates are asked about how they’ve used AI in the past — including how they’ve experimented with it personally.
+“That’s a really good indicator of [whether] someone really understands what these tools are good at,” Pendleton said.
+A few recent interviews Pendleton has conducted stand out in his mind. One candidate collected all the meeting notes from their former job and made them indexable and searchable with a local chatbot, so the applicant was able to ask questions from a laptop and get back the results of action items that were mentioned in those meetings.
+Another job candidate, who had a dispute with a landlord, had built an AI tool that would offer legal advice about contract law.
+“Because this [technology] is so new, people out there using these tools to scratch their own itch and showing that sort of thinking and willingness to experiment, has been a really high signal of quality for us,” Pendleton said.
+In addition to looking for a capacity to innovate, education companies also need people who can think through practical AI questions.
+Candidates considered by Instructure for AI-focused jobs are also asked about hypothetical scenarios for developing the technology, including how they could guarantee that output from AI tools would be safe to use and that it works as expected when put in front of students and teachers.
+Interviewers not only weigh whether job candidates have a good understanding of how AI models operate, but also how they would build out safety protocols and how they’d test their work, Pendleton said.
+Diversifying Your Talent Pool
+Knowing where to look to find AI talent is, for an education company, key to building the organization’s talent pool.
+ETS officials say they’ve had luck finding skilled applicants at conferences, within groups with shared affinities, and through internship programs that they run through their company, or that come out of universities.
+Other companies have also found success hiring from AI boot camps, graduate programs they partner with, and candidates from industries outside of the traditional technology sector.
+“Great candidates have a lot of opportunities right now,” McWilliams, of ETS, said, “so it’s important for organizations to ensure that candidates feel like they are going to make a difference and that they are going to move the field, and your product, forward.”
+
+It’s also likely that as companies become more dependent on AI, they’ll be forced to pay higher salaries to recruit and retain talent.
+Education companies’ missions may help them compete with bigger organizations in other sectors for workers with precious skills, said Everett Reiss, co-founder and chief operating officer forTenzing Talent, an ed-tech-focused talent acquisition practice.
+At the same time, some candidates for AI roles may find it appealing to work for smaller organizations they’re more passionate about serving, and that can help education organizations compete, he said.
+“When you are focusing more on civically minded, education-focused technical talent, the comp expectations are more [reasonable],” Reiss said.
+In addition, AI candidates may find the rapid-cycle approach with education companies in bringing new ideas to market appealing, he said. “Changes can happen quickly [at startups],” Reiss said. “You can go from ideation to impacting the product so much faster.”
+Upskilling From Within
+In a move to bring new AI capability to its entire K-12 workforce, Carnegie Learning is in the early stages of launching Project Drive, an effort aimed at bringing artificial intelligence into every functional area, including sales, marketing, product development, operations, and customer support.
+The goal is to make sure every employee is “aware and leveraging the opportunities that exist with AI and using it in a smart way to improve the output of their working day,” said Steve Rae, senior vice president of CL Next at Carnegie Learning.
+While the initial focus of Project Drive is internal, the goal is for it to serve as a catalyst for a “broader wave of exploration, curiosity, and embracement of this capability,” which will influence products, he said.
+Company officials are in the process of identifying individuals from each department to lead the initiative.
+Carnegie Learning is putting an emphasis on training up existing employees, rather than hiring people from outside, even if those outside individuals may have deeper knowledge and experience in AI.
+“The number one thing they have to be good at is change-management,” Rae said. “We’ll support them with the AI knowledge they need, but we’re trying to develop leaders” and “giving them this experience to be visible in the organization.”
+
+In September of 2022,OpenAI, creators of generative AI chatbotChatGPTgave early access to the program toKhan Academy.
+Khan Academy pulled together a team of its engineers to help test the product and to try to anticipate how districts and other users would use it. Company officials quickly realized that this team was a group of individuals who could think flexibly and were excited to try new things.
+Within that team, two members had deeper knowledge of AI and soon became mentors for the rest of their cohort. Since then, those two individuals have worked across teams to troubleshoot subsequent AI projects, their expertise growing with each new opportunity.
+“It’s not always about going out and hiring new people who have these skills,” said Kristen Dicerbo, chief learning officer for Khan Academy. “Some of the people are already in roles and have the mindset of, ‘How do I use this new technology and what might it look like?’”
+Utilizing your existing employee base can be a smart way to find talent because those workers’ existing knowledge in related technologies have already been vetted by the company, and they’re already familiar with traits the company values, said Rajen Sheth, chief executive officer and co-founder of AI-powered tutoring startupKyron Learning. And developing the artificial intelligence skills of current employees will only become easier as AI becomes more commonplace, he said.
+Sheth previously served as vice president of AI forGoogle Cloud, a role he began in 2017. Back then, there were very few people who knew how to use AI, he said. But in recent years, an increasing number of higher education institutions have created courses and degrees in the subject, and in general, AI has become more accessible and easier to use.
+Whereas in the past, there might’ve been more emphasis on coming into roles with prior knowledge, Sheth said the focus today is on “people that show the aptitude to learn.”
+“There aren’t many people that have a ton of experience given how new [generative AI] is,” he said. That means companies are “looking to build the skillset within their existing employee base.”
+FollowEdWeek Market Briefon Twitter@EdMarketBriefor connect with us onLinkedIn.
+Image by Getty.
+
+See also:

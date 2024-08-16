@@ -1,0 +1,12 @@
+Does your district have a dedicated point person on the role of artificial intelligence in K-12 education? Are you requiring vendors that use AI algorithms in their products to ensure they are free from bias? Do you have employees with the right skills to evaluate, procure, and operate generative AI?
+Those are just three of the 93 questions educators should be asking themselves as they seek to craft policies around generative AI, the technology that powers tools like ChatGPT. The list of questions is featured in“Generative AI Readiness Checklist,”a report from the Consortium for School Networking (CoSN), which represents district tech leaders, and the Council of the Great City Schools, which represents urban district leaders.
+
+The checklist was designed to help districts think about AI in a hands-on, actionable way, said Keith Krueger, the executive director of CoSN.
+
+Since a sophisticated version of ChatGPT was released last year, schools have been hungry for specifics on AI policy. But the reality is thatmost states and districts have held off on providing that guidance.
+Instead, there’s been a “lot of high-level vision statements,either it’s ‘the promised land’ or it’s ‘the sky is falling,’ but there’s little practical guidance to help school system leaders think about what are the most important things they need to do,” Krueger said. “Educators are clamoring for guidance around policy. So, the cavalry is coming.”
+The list of questions is divided into half a dozen areas for different teams within a school district to consider. They include questions for superintendents or executive leaders and operations teams, and officials working with data, as well as questions around technical readiness, security, and risk management. The work was done in partnership with the National Association of Secondary School Principals, the National School Public Relations Association, and the State Educational Technology Directors Association.
+Another resource called Teach AI, an initiative launched by a cadre of nonprofits to help schools think through AI guidance and policy, offered another piece of practical advice:A toolkit of principles to think through when crafting AI guidance.
+
+The toolkit recommends schools consider:
+The toolkit was developed by nonprofitsCode.org,CoSN,Digital Promise,European EdTech Alliance, andPolicy Analysis for California Education or PACE, with help from school leaders, teachers, and tech organizations.

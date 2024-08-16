@@ -1,0 +1,27 @@
+While many teachers are embracing generative artificial intelligence—the technology behind powerful new tools that analyze huge amounts of online data and then use it to create unique text and images from basic prompts—others are still wary of the technology and even feel overwhelmed by it.
+For that latter group, Kristen Brooks, a technology specialist in Cherokee County schools outside of Atlanta, has three simple strategies for teachers to get their feet wet.
+Teachers can use emerging generative AI tools to both augment their teaching and assist with behind-the-scenes tasks, such as lesson planning and communicating with parents, said Brooks.
+
+“How many people would just love if your district said, ‘We’re going to give you a teacher assistant for the rest of the year?’” said Brooks, who is also a consultant and speaker, in a presentation at the International Society for Technology in Education’s annual conference here. “So far, that has not happened in the 28 years that I have taught in my district. But this could be the next best thing.”
+To educators who are hesitant about using the technology, especially with students, Brooks said it’s OK for teachers to be honest with their students about their limited knowledge.
+Brooks said acknowledging what she didn’t know about Minecraft, for example, had unforeseen benefits.
+“It made my relationships and connection with the kids better, because when I said, ‘Hey guys, I really need your help,’ they were like, ‘OK, my teacher needs me,’” she said. “Giving them the opportunity [to be the teacher] allows them to hone in on those soft skills and share something they might be gifted at.”
+
+Teachers put a lot of unnecessary stress on themselves by pretending to be all knowing. And that’s a problem if it means educators shy away from introducing students to important new technologies out of fear, Brooks said.
+“So, we must start explaining and teaching students how to use it properly and carefully,” she said. “Nowhere in your contract does it say you have to know all the answers.”
+Here are Brooks’ three strategies for educators to introduce AI into their teaching:
+1. Create presentations in seconds with AI
+Brooks uses text-to-presentation tools, likeCuripodandSlidesAI.io,that use AI to create slide decks in seconds with prompts. Curipod also allows users to input the topic they want to teach along with the grade level and standards, said Brooks. The program automatically inserts interactive elements, such as polls and word clouds, into the presentations it generates.
+The speed at which generative AI tools can create a polished presentation is impressive, but Brooks cautions that teachers still need to double check to make sure everything is accurate. AI chatbots sometimes give inaccurate information or make things up. (See how a achatbot that pretends to be historical figuresmade up information about former President Barack Obama’s education policy record.)
+2. Get an assist on lesson plans and communications
+While there are new tools coming out that build on ChatGPT, teachers can also use the original tool tohelp them with many day-to-day tasks, such as checking grammar, generating ideas for classroom activities, and coming up with discussion questions.
+
+“If I have to write an email to a parent, I will put it in there and have [ChatGPT] proofread it,” said Brooks. “You can specifically say, ‘make that a little more friendly, please.’”
+Brooks also said she uses ChatGPT to refresh her lesson plans. Teachers can give ChatGPT very specific prompts, Brooks said, such as: “Give me a writing prompt for 4th graders on the Civil War.”
+“I’m always looking for new ideas,” she said. “So I have asked it before, ‘here’s my lesson plan, do you have any additional ideas?’ Or, ‘could you write me two more things to go with that?’”
+3. Use image generators to introduce AI to students
+Text-to-image generators are tools that use generative AI to create unique images based on a prompt, which, again, can be highly specific, said Brooks. She said she’s found them to be an engaging way to let students begin experimenting generative AI and learn what its capabilities are.
+She likes to use programs such as Animate to Audio and Firefly, both offered by Adobe Express, which is free to use, to introduce students to generative AI.
+While Brooks said she thinks it’s fine for middle and high school students to use ChatGPT, she wouldn’t let elementary students loose on the chatbot. (ChatGPT’s terms of service says users must be at least 13 years old to use the chatbot.)
+
+Instead, Brooks recommends using a ChatGPT alternativeByteAI, developed by the education consulting and publishing company Code Breaker,for students in younger grades.Code Breaker’s founder saysthe chatbot was designed for classroom use and does not require users to sign in, nor does it collect their data.

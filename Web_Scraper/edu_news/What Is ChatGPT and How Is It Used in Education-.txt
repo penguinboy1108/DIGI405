@@ -1,0 +1,18 @@
+During the chaotic summer of 2020, filled with pandemic panic and political protests, the emergence of a sophisticated new artificial intelligence tool that could credibly tweet, type, and code on its own was far from most educators’ minds.
+Fast-forward two and a half years, andChatGPT, a publicly available tool built on the advancements of that 2020 product, is rapidly approaching household name status. The free app that generates a fairly convincing approximation of text written by humans is infiltrating many corners of society, fromlegal contract writingandsearch engine optimizationtoAlzheimer’s research.
+It’s also hit the K-12 world. The New York City school system, the nation’s largest, moved this week to prohibit students and teachers from accessing the site on school computers. Some educators are fretting about the effect the app will have on their students’ motivation to learn, while others are already pondering ways to apply it to instruction.
+
+A headline last month in The Atlantic declared that ChatGPT represents“The End of High-School English.”A teacher,writing for Education Week, counters that ChatGPT could become as ubiquitous as Wikipedia and calculators—though the teacher who wrote it acknowledges that the tool is “threatening to send my colleagues into early retirement.” This summer, when ChatGPT was in an earlier phase, Education Weekasked teachers to weigh in on the technology—and had the AI write a short analysis of Romeo and Juliet.
+If the collection of letters in ChatGPT still makes your head spin, here’s how you can get up to speed on this emerging technology and what it might mean.
+What does the GPT in ChatGPT stand for?
+Generative Pre-trained Transformer.
+How does it work?
+The chat app, released widely for free in late November 2022, is based on the underlying GPT technology, which comprehensively scanned the internet during the summer of 2020 and developed the ability to write seemingly anything—tweets, poems, essays, and even computer programs—all with a simple prompt.
+Is this thing infallible?
+Hardly. It can’t generate content based on things that have happened after its most recent scan of the internet in 2021, so some of the references it generates are out of date. Sometimes it getsmath problemsor words wrong. And programmers have tried their hardest to restrict the tool from answering “inappropriate requests.”
+Who’s behind this technology?
+OpenAI, a San Francisco-based research laboratory that contains a for-profit company and its nonprofit parent. Among its founders and biggest ongoing donors are controversial figures like Twitter CEO Elon Musk and Silicon Valley megadonor Peter Thiel, along with technology companies like Microsoft. Previous well-known products from OpenAI includeDALL-E, which creates images from textual descriptions.
+Why are educators getting interested?
+Some users have already tested the app’s ability to generate convincing versions ofresponses to essay questionsand evenpublishable academic papers. Others believe students may benefit from understanding the ins and outs of how the technology works, and might use it as a tool to explore the possibilities and limits of online sources of information.
+Is ChatGPT done evolving?
+Not by a long shot. Version 4 of GPT is tentatively slated to debut sometime this year, though OpenAI hasn’t announced an official date. Some experts project the more-evolved version, with more than five times the parameters of Version 3, could be far more accurate and useful than the currently available model.

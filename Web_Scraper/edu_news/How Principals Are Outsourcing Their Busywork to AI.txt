@@ -1,0 +1,37 @@
+Educators have had a love-hate relationship with generative artificial intelligence ever since ChatGPT first burst onto their screens and into their schools.
+With only a few keywords, AI can produce sophisticated lesson plans, create pop quizzes, and grade papers. But it can also help students plagiarize and cheat. More recently,fears around cheatingwere superseded by thethreat of AI-generated deepfakeimages and audio that violate the privacy of and potentially defame both children and adults in schools.
+Against this chaotic backdrop, some school leaders are crafting their own relationship with artificial intelligence. Principals and district leaders are using AI chatbots for a range of tasks, such as drafting difficult emails to angry parents, fixing the school schedule, and creating the most up-to-date professional development sessions for teachers. AI is helping these leaders chip away at their substantial administrative burden.
+
+A nationally representative survey conducted by RAND Corp. in 2022foundthat 85 percent of principals were experiencing job-related stress, while 48 percent were burnt out. The immediate aftershocks of the pandemic may have subsided, but principals are stillcopingwith its long-term effects like a rise in chronic absenteeism, student mental health problems and misbehavior, and teacher shortages.
+“There’s an urgent need to make the principalship more manageable, and AI innovation can help with that,” said Michael Martin, the principal of Buckeye High School in New Washington, Ohio.
+Martin has tinkered with ChatGPT and similar services since they launched, and through this experimentation, curated a suite of AI-based tools like MagicSchool, BrightBytes, and Invideo AI. (He uses the free versions.) These help Martin complete his “algorithmic” or administrative tasks more quickly so that he gets more time to build relationships with teachers and students.
+The suite has become a personal assistant, thought partner, and search engine all rolled into one, he added.
+
+Still, Martin has had to navigate AI’s shortcomings. When he asked it to generate a list of the latest research on a topic, Martin found that ChatGPT would often surface articles and citations that did not exist.
+“I now ask it to list the APA citation, too,” said Martin, referring to a research citation method where the author’s last name and date of publication are included in the text of the paper.
+Martin uses AI to summarize the contents of the emails in his inbox, as well as set up appointments with colleagues. He also leverages AI tools for more complex tasks—like creating a PSA video on student attendance. All it took was a couple of prompts and a few images, Martin said: “What used to take me hours now takes 20 minutes.”
+Leaders can make quicker decisions when AI breaks down data
+Martin uses AI to break down large student datasets into useable chunks that give him information about how to design a rule or policy.
+For example, in the runup to summer break, Martin had to figure out the best time slots to offer summer classes for students below grade level. The AI tool analyzed over 100 parent responses to a survey and gave Martin insights on how many would enroll their kids in summer school if it were held during the morning, instead of later in the day. Without AI, making those determinations would take much longer, Martin said.
+
+Tools that crunch through large datasets to provide fresh insights could be especially useful for first-time principals, said Winston Sakurai, the director of adult education at the Hawaii State Department of Education and in-charge of the department’s AI work group. Sakurai, a former high school principal, creates AI training modules for teachers and principals across Hawaii and is encouraging more school leaders to use AI tools as personal assistants.
+
+“When administrators make the switch from being teachers, there are suddenly a lot of business functions [they must learn] to run a school,” Sakurai said. “Not everyone went to a statistics class or attended business school. AI can help them see the story that the data is trying to tell.”
+Chatbots can guide educators through specific tasks
+Beyond data dives, school and district leaders have also created their own ecosystem of information modeled on ChatGPT.
+Chris Chism, the superintendent of the Pearl school district in Mississippi, has created a number of smaller chatbots, which ensconce all the information about a particular topic on one platform for school leaders and teachers.
+One chatbot, for instance, is dedicated to writing better individualized education programs, or IEPs, for students. Chism uploaded the federal guidelines, the state’s standards, and local district policies on IEPs to the AI tool, which can churn through all this information to give special education teachers answers or tips on writing individual plans for students.
+
+Chism has also built a chatbot that instantly drafts lesson plans that are aligned with the state’s standards, and one that creates short stories for elementary students based on prompts from the students and their teachers.
+“I think of it as a cross between a personal assistant and a search engine,” he said. “I never Google anything anymore. This [AI] saves me 30 to 40 percent of the time [on tasks] as a superintendent.”
+
+Even so, Chism is wary of taking his AI-generated searches at face value. For every piece of research or article his chatbots surface, Chism asks for a URL or source.
+An early adopter of AI tools, Chism has made it a part of his role to advocate for school leaders’ use of AI tools. In the last school year, he did around 70 presentations across the state to principals and teachers to demystify AI and explain how it could make their jobs easier.
+“All I want them to do is play around with [AI tools] a little bit—get the basics right,” he said. “When I go back to present in the new school year, some of the information on the slides will change. The technology is evolving very quickly.”
+Can AI bots tackle human complexity, too?
+Chism, Sakurai, and Martin like using AI to reduce their busywork. But all three believe that AI bots can also help navigate more complicated tasks.
+Chism, for instance, has asked his AI bot to pose as an angry parent to give first-time teachers the experience of dealing with such conflict before they face the real thing. A chatbot can also take a first crack at drafting a difficult letter about a disciplinary or attendance issue to a parent, instead of a school leader spending hours to get the language and tone right.
+Martin said he’s used AI to write emails to other leaders in his school district on sensitive topics. The AI can write in a neutral tone, but also provide the necessary research to buttress the principal’s argument about a policy or state statute, Martin added.
+
+Leaders should still double-check the AI’s work before they hit send, said Sakurai, because chatbots still have biases built into them.
+“If principals in Hawaii draft a Thanksgiving message for parents, they can’t talk about the color of fall leaves on the ground. That’s likely to show up in an email drafted by AI,” Sakurai said, “but its not really applicable to us here.”

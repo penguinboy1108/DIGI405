@@ -1,0 +1,32 @@
+AI-fueled cheating—and how to stop students from doing it—has become a major concern for educators.
+But how prevalent is it? Newly released data from a popular plagiarism-detection company is shedding some light on the problem.
+And it may not be as bad as educators think it is.
+
+Of the more than 200 millionwriting assignments reviewed by Turnitin’s AI detection toolover the past year, some AI use was detected in about 1 out of 10 assignments, while only 3 out of every 100 assignments were generated mostly by AI.
+These numbers have not changed much from when Turnitin released data in August of 2023 about the first three months of the use of its detection tool, said the company’s chief product officer, Annie Chechitelli.
+“We hit a steady state, and it hasn’t changed dramatically since then,” she said. “There are students who are leaning on AI too much. But it’s not pervasive. It wasn’t this, ‘the sky is falling.’”
+The fact that the number of students using AI to complete their schoolwork hasn’t skyrocketed in the past year dovetails withsurvey findings from Stanford Universitythat were released in December. Researchers there polled students in 40 different high schools and found that the percentage of students who admitted to cheating has remained flat since the advent of ChatGPT and other readily available generative AI tools. For years before the release of ChatGPT, between 60 and 70 percent of students admitted to cheating, and that remained the same in the 2023 surveys, the researchers said.
+
+Turnitin’s latest data release shows that in 11 percent of assignments run through its AI detection tool that at least 20 percent of each assignment had evidence of AI use in the writing. In 3 percent of the assignments, each assignment was made up of 80 percent or more of AI writing, which tracks closely with whatthe company was seeing just 3 months after it launched its AI detection tool.
+Experts warn against fixating on cheating and plagiarism
+However, a separate survey of educators has found that AI detection tools are becoming more popular with teachers, a trend that worries some experts.
+Thesurvey of middle and high school teachersby the Center for Democracy and Technology, a nonprofit focused on technology policy and consumer rights, found that 68 percent have used an AI detection tool, up substantially from the previous year. Teachers also reported in the same survey that students are increasingly getting in trouble for using AI to complete assignments. In the 2023-24 school year, 63 percent of teachers said students had gotten in trouble for being accused of using generative AI in their schoolwork, up from 48 percent last school year.
+
+Despite scant evidence that AI is fueling a wave in cheating, half of teachers reported in the Center for Democracy and Technology survey that generative AI has made them more distrustful that their students are turning in original work.
+Some experts warn that fixating on plagiarism and cheating is the wrong focus.
+This creates an environment where students are afraid to talk with their teachers about AI tools because they might get in trouble, said Tara Nattrass, the managing director of innovation and strategy at ISTE+ASCD, a nonprofit that offers content and professional development on educational technology and curriculum.
+
+“We need to reframe the conversation and engage with students around the ways in which AI can support them in their learning and the ways in which it may be detrimental to their learning,” she said in an email to Education Week. “We want students to know that activities like using AI to write essays and pass them off as their own is harmful to their learning while using AI to break down difficult topics to strengthen understanding can help them in their learning.”
+Shift the focus to teaching AI literacy, crafting better policies
+Students said in the Stanford survey that is generally how they think AI should be used: as an aid to understanding concepts rather than a fancy plagiarism tool.
+Nattrass said schools should be teachingAI literacywhile including students in drafting clear AI guidelines.
+Nattrass also recommends against schools using AI detection tools. They are too unreliable to authenticate students’ work, she said, and false positives can be devastating to individual students and breed a larger environment of mistrust. Some research has found thatAI detection tools are especially weak at identifying the original writing of English learnersfrom AI-driven prose.
+“Students are using AI and will continue to do so with or without educator guidance,” Nattrass said. “Teaching students about safe and ethical AI use is a part of our responsibility to help them become contributing digital citizens.”
+AI detection software actually uses AI to function: these tools are trained on large amounts of machine- and human-created writing so that the software can ideally recognize differences between the two.
+
+Turnitin claims that its AI detector is 99 percent accurate at determining whether a document was written with AI, specifically ChatGPT, as long as the document was composed with at least 20 percent of AI writing, according to the company’s website.
+Chechitelli pointed out that no detector or test—whether it’s a fire alarm or medical test—is 100 percent accurate.
+While she said teachers should not rely solely on AI detectors to determine if a student is using AI to cheat, she makes the case that detection tools can provide teachers with valuable data.
+“It is not definitive proof,” she said. “It’s a signal that taken with other signals can be used to start a conversation with a student.”
+As educators become more comfortable with generative AI, Chechitelli said she predicts the focus will shift from detection to transparency: how should students cite or communicate the ways they’ve used AI? When should educators encourage students to use AI in assignments? And do schools have clear policies around AI use and what, exactly, constitutes plagiarism or cheating?
+“What the feedback we’re hearing now from students is: ‘I’m gonna use it. I would love a little bit more guidance on how and when so I don’t get in trouble,” but still use it to learn, Chechitelli said.

@@ -1,0 +1,21 @@
+Even though it’s been more than a year sinceChatGPTmade a big splash in the K-12 world, many teachers say they are still not receiving any training on usingartificial intelligencetools in the classroom.
+More than 7 in 10 teachers said they haven’t received any professional development on using AI in the classroom, according to a nationally representative EdWeek Research Center survey of 953 educators, including 553 teachers, conducted between Jan. 31 and March 4.
+The survey data shows that teachers who are in urban districts, those in districts with free/reduced-price meal rates of more than 75 percent, and those who teach elementary grades are more likely than their peers to say they haven’t received any AI training.
+
+Aprevious EdWeek Research Center surveyfound that one of the major reasons teachers aren’t using AI in their work is because of a lack of knowledge and support for how to use AI tools effectively and appropriately.
+Some experts say that educators can’t ignore this technology that is predicted to be a huge force in the world. They say that it’s important forteachers to learn more about AI, not just so they can use it responsibly in their work, but also to help model that use for students who are already interacting with this technology and will need to become smart AI consumers.
+
+Districts have ‘competing priorities’
+For Justin Sealand, a math teacher for Woodford County High School in Versailles, Ky., getting training on AI is important because “the kids are going to be looking for” it, and “I would personally like to be able to provide that.”
+While his district has provided two professional learning sessions focused on AI so far, Sealand still wants more training.
+
+“I want it to be way more tailored to what I’m trying to accomplish,” he said.
+For instance, for his class, he writes a lot of code for graphics or manipulatives and curates datasets for statistics examples, but he would like to “figure out how to better leverage AI for those content-specific things.”
+But it’s not surprising that many districts have yet to provide AI-specific training, said Tara Nattrass, the managing director of innovation strategy at the International Society for Technology in Education and the Association for Supervision and Curriculum Development.
+“Districts are focusing on a lot of different areas right now,” Nattrass said. “There’s a focus on the science of reading. There’s a focus on social-emotional learning. There are a lot of competing priorities when we look across school districts, and AI is one piece of that.”
+Looking for PD opportunities elsewhere
+Sealand said he understands why his district hasn’t had any other training on AI beyond the basics.
+“I might be the only person in my entire district interested in that hyper-specific type of prompt writing,” he said. So in his own time, he’s been researching ways to leverage AI tools to create graphics, visualizations, and manipulatives to use for demonstrations with his students.
+
+Other educators are also looking for professional development opportunities outside of the district. More than 3,500 educators have signed up forISTE’s professional learning courseon AI, according to the organization. Others are also participating in the organization’s webinar sessions on AI, Nattrass said.
+This isn’t a bad thing, according to Nattrass. Teachers should have “a variety of ways” to engage in AI learning, such as district-led professional development opportunities, courses from other organizations, and networking with other educators.

@@ -1,0 +1,37 @@
+“AI is here, and slowing down isn’t an option.”
+That’s what Washington state’s schools chief Chris Reykdal wrote in his introduction to thestate’s artificial intelligence guidance for K-12 schools.
+It’s a sentiment other educators share. In open-ended responses to EdWeek Research Center surveys conductedlast springandlast fall, educators noted that AI is here to stay, so schools should get on board and understand its use.
+
+Yet, while more teachers are trying out the technology, a majority say they haven’t used AI tools at all, according tothe EdWeek Research Center survey conducted last fall. One of the most popular reasons for that resistance, according to 33 percent of teachers, is that their district hasn’t established a policy on how to use the technology appropriately.
+“Our district needs a policy that creates guidelines for the ethical use of it,” said a high school English teacher in Connecticut in the open-ended response section. “This way, we can teach students how to use AI as a tool for learning, not for cheating.”
+Glenn Kleiman, a member of the advisory committees for the TeachAI initiative and the Consortium for School Networking’s innovation project, said “schools are very hungry for guidance” on how to create policies around AI use. But according to Kleiman’s conversations with superintendents, “They generally all feel like they’re at step 0.1 in figuring it out.”
+District leaders don’t necessarily need to reinvent the wheel. Current policies that guide the adoption of ed tech will also apply to AI-powered tools, said Min Sun, an associate professor at the University of Washington’s college of education who was part of the state’s AI advisory group. But “there are also some uniquenesses with regard to this wave of education technology development … that may need some additional sort of guidelines specifically about AI technology,” she said.
+
+Education organizations and coalitions—such asTeachAI,CoSN, and the Council of the Great City Schools—have led the way with guides to help district leaders navigate AI implementation. In the last few months, at least five states—California,Oregon,North Carolina,Washington, andWest Virginia—have also released AI guidance for schools.
+While each district will have to think about its unique context when determining how to implement AI, there are some common strategies all districts should consider. Here are eight strategies culled from those state and organization guidelines:
+
+1. Align AI use with the district’s mission, vision, and goals
+Before deciding to implement AI, district leaders should think about their district’s mission and vision and figure out where the technology can help achieve those goals. It can help student learning by personalizing content, aiding students’ creativity, and preparing them for future careers. AI can provide teacher support through content development, differentiation, assessment analysis, and professional development. And it can make school management and operations more efficient.
+But for every benefit, there’s also a risk. For instance, using AI could lead to plagiarism, misinformation, bullying, unequal access, diminished teacher and student agency, and compromised data privacy. These risks shouldn’t prevent districts from using AI, experts say. But knowing the risks makes it easier to mitigate them.
+
+2. Develop students’ AI literacy
+According to TeachAI,AI literacyrefers to the knowledge, skills, and attitudes associated with how AI works, including its principles, concepts, and applications, as well as how to use the technology in practice. That should also include a solid understanding of its limitations and the ethical considerations when using it. Infusing AI literacy throughout the curriculum will ensure that most students are equipped to engage productively and responsibly with AI technologies. This level of AI literacy is especially important because students are often trying and playing around with these new tech tools well before their teachers do.
+
+3. Provide adequate professional development
+Students aren’t the only ones who need to be AI literate.Teachers and other district staff also need to know how AI worksand how to use it responsibly. Along with learning about the capabilities and limitations of AI, teachers will need specific, actionable examples of how to use AI in their classroom. Districts could also create a professional development plan that incorporates AI literacy as a component of broader literacy and equity training, so teachers don’t feel like this is just another time-consuming task being added to their already overflowing plates.
+
+4. Provide acceptable and prohibited uses of AI
+Districts might need to update some of their policies, such as those related to acceptable use and academic integrity, to take the safe and appropriate use of AI tools into account. District leaders should make it clear in their guidance who will be responsible for setting boundaries of responsible use in classes and assignments. It should be clear to educators and students how and when they can use AI in their work, as well as theconsequences for not using the tools responsibly.
+
+5. Protect students’ and educators’ data privacy
+AI tools are trained on extensive data. In K-12 education, these data could include sensitive information about students, and that is why districts need to ensure that the data are collected and used carefully and responsibly. Districts should think about obtainingparental consent for students to use AI tools in school. But even with consent, experts advise against using identifiable data in public AI models.
+Experts also recommend that schools catalog the AI tools they use, their purposes, and the information they require; craft policies that are clear about who can use AI tools and for what purposes; and maintain updated information about the technical details and security implications of the tools in use.
+
+6. Thoroughly vet AI tools
+In order to protect any sensitive information that districts hold, it’s important toproperly vet any AI toolbefore allowing staff and students to use it. Similar to other ed-tech tools, districts should ensure that they know what data the AI tools collect, what the companies do with that data, and what security measures they have to ensure users’ privacy. Districts should also find out how AI tools are created and what data sources were used to train the models.
+
+7. Assess the impact of AI tools
+Districts should establish ways to monitor and evaluate the use of AI tools to ensure that they continue to meet districts’ needs and comply with changes in laws. Districts should also ensure they are soliciting feedback on their AI guidance from teachers, other staff, students, and parents, and they should update the guidance as needed.
+
+8. Communicate with the community
+Communication with the broader school community is important in successfully integrating AI into school settings. Districts should engage with parents and provide them with a clear understanding of how AI tools will be used and the potential benefits they offer students. This can also be an opportunity for districts to hear parents’ concerns about AI use, which can contribute to the ongoing development of the district’s policy.

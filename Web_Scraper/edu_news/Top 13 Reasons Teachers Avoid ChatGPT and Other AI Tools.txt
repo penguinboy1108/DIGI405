@@ -1,0 +1,15 @@
+More than half of educators—59 percent—are not currently using ChatGPT and other artificial intelligence tools, according to an EdWeek Research Center survey.
+What’s more, 37 percent of respondents—which included district and school leaders and teachers—say they have never used the tools and don’t plan to start. More than one in five—22 percent—say they don’t plan to give the technology a try this school year, but hope to do so in the future.
+The most popular reason among teachers for eschewing the game-changing technology, at least for now? An already full plate of responsibilities. Nearly half of the teachers surveyed—46 percent—said “I haven’t explored these tools because I have other priorities that are more important.”
+
+The EdWeek Research Center’s nationally representative survey of 924 educators, including teachers and school and district leaders, was conducted online from Nov. 30 to Dec. 6 of last year. (The chart featured in this story includes responses from teachers only.)
+
+Educators “don’t see that they have an AI problem right now,” said Pat Yongpradit, the chief academic officer for Code.Org and leader of Teach AI, an initiative to help K-12 schools use AI technology effectively. “They have a learning loss problem. They have a teacher turnover problem. But they don’t have an AI problem. It’s not like parents are knocking on the door, saying ‘Oh, you don’t have guidance on AI.’”
+Other common answers appear to point to the need for more professional development on AI. More than a third of the teachers surveyed—36 percent—said they aren’t using the tools because they don’t know how to. And another third—33 percent—said they were avoiding them because their districts hadn’t yet outlined a policy on using AI.
+Other teachers said they weren’t sure whether they could use the tools effectively, don’t understand how AI works, or have data privacy concerns.
+
+And nearly one in five said they weren’t using the tools because they don’t believe AI is appropriate for a K-12 setting,given its potential to help students cheat.
+Some states and districts are beginning to help teachers learn the basics of AI to help bridge the knowledge gap.
+One of the reasons California became one of the first states to releaseguidance on using AI in classroomswas because “we needed to let the education community know what this is all about. What to be careful of, what to be excited about,” said Katherine Goyette, the computer science coordinator for the California Department of Education.
+
+Data analysis for this article was provided by the EdWeek Research Center.Learn more about the center’s work.

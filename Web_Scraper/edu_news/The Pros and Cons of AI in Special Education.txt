@@ -1,0 +1,66 @@
+Special education teachers fill out mountains of paperwork, customize lessons for students with a wide range of learning differences, and attend hours of bureaucratic meetings.
+It’s easy to see why it would be tempting to outsource parts of that job to a robot.
+While there may never be a special educator version of “Star Wars”’ protocol droid C-3PO, generative artificial tools—including ChatGPT and others developed with the large language models created by its founder, Open AI—can help special education teachers perform parts of their job more efficiently, allowing them to spend more time with their students, experts and educators say.
+
+But those shortcuts come with plenty of cautions, they add.
+Teachers need to review artificial intelligence’s suggestions carefully to ensure that they are right for specific students. Student data—including diagnoses of learning differences or cognitive disorders—need to be kept private.
+Even special educators who have embraced the technology urge to proceed with care.
+“I’m concerned about how AI is being presented right now to educators, that it’s this magical tool,” said Julie Tarasi, who teaches special education at Lakeview Middle School in the Park Hill school district near Kansas City, Mo. She recently completed a course in AI sponsored by the International Society for Technology in Education. “And I don’t think that the AI literacy aspect of it is necessarily being [shared] to the magnitude that it should be with teachers.”
+
+Park Hill is cautiously experimenting with AI’s potential as a paperwork partner for educators and an assistive technology for some students in special education.
+The district is on the vanguard. Only about 1 in 6 principals and district leaders—16 percent—said their schools or districts were piloting AI tools or using them in a limited manner with students in special education, according to a nationally representative EdWeek Research Center survey conducted in March and April.
+
+AI tools may work best for teachers who already have a deep understanding of what works for students in special education, and of the tech itself, said Amanda Morin, a member of the advisory board for the learner-variability project at Digital Promise, a nonprofit organization that works on equity and technology issues in schools.
+“If you feel really confident in your special education knowledge and experience and you have explored AI [in depth], I think those two can combine in a way that can really accelerate the way you serve students,” Morin said.
+But “if you are a novice at either, it’s not going to serve your students well because you don’t know what you don’t know yet,” she added. “You may not even know if the tool is giving you a good answer.”
+Here are some of the areas where Park Hill educators and other school and district leaders see AI’s promise for special education—and what caveats to look out for:
+Promise: Reducing the paperwork burden.
+Some special education teachers spend as many as eight hours a week writing student-behavior plans, progress reports, and other documentation.
+“Inevitably, we’re gonna get stuck, we’re gonna struggle to word things,” Tarasi said. AI can be great for busting through writer’s block or finding a clearer, more objective way to describe a student’s behavior, she said.
+What’s more, tools such as Magic School—an AI platform created for K-12 education—can help special education teachers craft the student learning goals that must be included in an individualized education program, or IEP.
+“I can say ‘I need a reading goal to teach vowels and consonants to a student,’ and it will generate a goal,” said Tara Bachmann, Park Hill’s assistive-technology facilitator. “You can put the criteria you want in, but it makes it measurable, then my teachers can go in and insert the specifics about the student” without involving AI, Bachmann said.
+These workarounds can cut the process of writing an IEP by up to 30 minutes, Bachmann said—giving teachers more time with students.
+AI can also come to the rescue when a teacher needs to craft a polite, professional email to a parent after a stress-inducing encounter with their child.
+
+Some Park Hill special education teachers use “Goblin,” a free tool aimed at helping neurodivergent people organize tasks, to take the “spice” out of those messages, Tarasi said.
+A teacher could write “the most emotionally charged email. Then you hit a button called ‘formalize.’ And it makes it like incredibly professional,” Bachmann said. “Our teachers like it because they have a way to release the emotion but still communicate the message to the families.”
+Teachers must be extremely careful about privacy issues when using AI tools to write documents—from IEPs to emails—that contain sensitive student information, Tarasi said.
+“If you wouldn’t put it on a billboard outside of the school, you should not be putting it into any sort of AI,” Tarasi said. “There’s no sense of guaranteed privacy.”
+Tarasi advises her colleagues to “absolutely not put in names” when using generative AI to craft documents, she said. While including students’ approximate grade level may be OK in certain circumstances, inputting their exact age or mentioning a unique diagnosis is a no-no.
+To be sure, if the information teachers put into AI is too vague, educators might not get accurate suggestions for their reports. That requires a balance.
+
+“You need to be specific without being, without being pinpoint,” Tarasi said.
+Another caution: Although AI tools can help teachers craft a report or customize a general education lesson for students in special education, teachers need to already have a deep understanding of their students to know whether to adopt its recommendations.
+Relying solely on AI tools for lesson planning or writing reports “takes the individualized out of individualized education,” Morin said. “Because what [the technology] is doing is spitting out things that come up a lot” as opposed to carefully considering what’s best for a specific student, like a good teacher can.
+Educators can tweak their prompts—the questions they ask AI—to get better, more specific advice, she added.
+“A seasoned special educator would be able to say ‘So I have a student with ADHD, and they’re fidgety’ and get more individualized recommendations,” Morin said.
+Promise: Making lessons more accessible.
+Ensuring students in special education master the same course content as their peers can require teachers to spend hours simplifying the language of a text to an appropriate reading level.
+
+Generative AI tools can accomplish that same task—often called “leveling a text"—in just minutes, said Josh Clark, the leader of theLandmark School, a private school in Massachusetts serving children with dyslexia and other language-based learning differences.
+“If you have a class of 30 kids in 9th grade, and they’re all reading about photosynthesis, then for one particular child, you can customize [the] reading level without calling them out and without anybody else knowing and without you, the teacher, spending hours,” Clark said. “I think that’s a super powerful way of allowing kids to access information they may not be able to otherwise.”
+Similarly, in Park Hill, Bachmann has used Canva—a design tool with a version specifically geared toward K-12 schools and therefore age-appropriate for many students—to help a student with cerebral palsy create the same kind of black-and-white art his classmates were making.
+Kristen Ponce, the district’s speech and language pathologist, has used Canva to provide visuals for students in special education as they work to be more specific in their communication.
+Case-in-point: One of Ponce’s students loves to learn about animals, but he has a very clear idea of what he’s looking for, she said. If the student just says “bear,” Canva will pull up a picture of, for instance, a brown grizzly. But the student may have been thinking of a polar bear.
+That gives Ponce the opportunity to tell him, “We need to use more words to explain what you’re trying to say here,” she said. “We were able to move from ‘bear’ to ‘white bear on ice.’”
+Not every AI tool can be used with every student. For instance, there are age restrictions for tools like ChatGPT, which isn’t for children under 13 or those under 18 without parent permission, Bachmann said. (ChatGPT does not independently verify a user’s age.)
+“I caution my staff about introducing it to children who are too young and remembering that and that we try to focus on what therapists and teachers can do collectively to make life easier for [students],” she said.
+“Accessibility is great,” she said. But when a teacher is thinking about “unleashing a child freely on AI, there is caution to it.”
+Promise: Using AI tools to help students in special education communicate.
+Park Hill is just beginning to use AI tools to help students in special education express their ideas.
+One recent example: A student with a traumatic brain injury that affected her language abilities made thank you cards for several of her teachers using Canva.
+“She was able to generate personal messages to people like the school nurses,” Bachmann said. “To her physical therapist who has taken her to all kinds of events outside in the community. She said, ‘You are my favorite therapist.’ She got very personal.”
+
+There may be similar opportunities for AI to help students in special education write more effectively.
+Some students with learning and thinking differences have trouble organizing their thoughts or getting their point across.
+“When we ask a child to write, we’re actually asking them to do a whole lot of tasks at once,” Clark said. Aspects of writing that might seem relatively simple to a traditional learner—word retrieval, grammar, punctuation, spelling—can be a real roadblock for some students in special education, he said.
+“It’s a huge distraction,” Clark said. The student may “have great ideas, but they have difficulty coming through.”
+Having students with language-processing differences use AI tools to better express themselves holds potential, but if it is not done carefully, students may miss developing key skills, said Digital Promise’s Morin.
+AI “can be a really positive adaptive tool, but I think you have to be really structured about how you’re doing it,” she said.
+
+ChatGPT or a similar tool may be able to help a student with dyslexia or a similar learning difference “create better writing, which I think is different than writing better,” Morin said.
+Since it’s likely that students will be able to use those tools in the professional world, it makes sense that they begin using them in school, she said.
+But the tools available now may not adequately explain the rationale behind the changes they make to a student’s work or help students express themselves more clearly in the future.
+“The process is just as important as the outcome, especially with kids who learn differently, right?” Morin said. “Your process matters.”
+Clark agreed on the need for moving cautiously. His own school is trying what he described as “isolated experiments” in using AI to help students with language-processing differences express themselves better.
+The school is concentrating, for now, on older students preparing to enter college. Presumably, many will be able to use AI to complete some postsecondary assignments. “How do we make sure it’s an equal playing field?” Clark said.

@@ -1,0 +1,34 @@
+The highest profile international test may soon offer clues as to how artificial intelligence can be harnessed to create and score assessments that paint a more detailed picture of how students learn.
+The 2025 edition of theProgram for International Student Assessment, or PISA, is slated to include performance tasks probing how students approach learning and solve problems, said Andreas Schleicher, the director for education and skills, and special advisor on education policy to the secretary-general at the Organization for Economic Cooperation and Development. He was speaking at a conference of the Council of Chief State School Officers this month in in Washington.
+While PISAalready offers some open-ended problem-solving questions, along with traditional questions on reading, math, and science, the proposal includes an AI -powered twist.
+
+“We are going to incorporate giving them tasks to learn and we’re going to track how they approached” the assignment, to get a sense of how students think critically and creatively, he said.
+The tasks would be scored, at least in part, by AI, Schleicher added.
+Students would be able to use an AI-powered chatbot to complete their work. They could ask it basic questions about a topic, so that the test could focus on their thinking capability, not whether they possessbackground knowledgeof a particular subject.
+“Otherwise, many kids [would] struggle simply because they haven’t learned something specific,” Schleicher said in a follow-up interview.
+
+This could be a step towards figuring out how AI can help educators achieve a long-elusive goal: Creating anew breed of assessments that actually helps inform teaching and learning in real time, he said.
+“I think one of the greatest mistakes that we have made in the history of education is to divorce learning from assessment,” Schleicher told the chiefs. “We have young kids pile up years and years and years and years of learning. And then one day we call them back and say, ‘Tell me everything you know’ in this contrived setting. And that has been superficial, that has made teaching superficial.”
+OECD administers PISA to 15-year-olds every three years in reading, math, and science, with a special focus on a different subject each time. Some 620,000 students in 38 mostly developed countries and a total of 81 education systems, including four in China, participated in the most recent PISA, in 2022.
+‘More freedom to be innovative’
+OCED is still working out the details of the AI-informed performance task. But the type of assignments students could begin to tackle include designing a laboratory experiment to test a particular hypothesis or developing an advertising campaign.
+AI tools also could be used to help score the tasks, mimicking the role of human scorers. In explaining how this kind of grading would work, Schleicher cited an example he saw at Beijing Normal University in China, in which music students were presented with half a song and asked to compose the remaining half. The assignments were scored both by trained musicians and by AI.
+Even though the task is a creative one, the AI scores eventually began to match those of the professionals.
+
+Unlike the annual reading and math tests that U.S. states arerequired to administer, PISA is only given to a sample of students and is not used for accountability purposes. The test doesn’t generate scores for specific students or even schools.
+Because PISA “doesn’t matter for individual students … we have a lot more freedom to be more innovative,” Schleicher said in an interview.
+Although PISA is often used to compare different countries’ educational systems, the performance task may not figure into a nation’s overall scores, at least initially, Schleicher said. OECD experts will likely want to see how students’ mastery of the task compares to the more traditional parts of the test, he explained.
+‘It would be phenomenal’
+Getting AI to assess students’ thinking skills—how they approach learning and process information—could be a game-changer not just for assessment but for teaching and learning, said Scott Marion, the executive director of the National Center for the Improvement of Educational Assessment.
+It could start a conversation “maybe on a countrywide basis, maybe just globally at first [about] how kids are approaching problems. And what does that portend for instruction?” Marion said.
+Marion still has questions about exactly how the process would work. But he’s hoping that eventually the technology PISA is experimenting with could provide more specific information of how individual students learn.
+
+“Teachers could get really deep feedback on how kids are interacting” with performance tasks and “where they’re struggling, where they’re getting stuck on these things,” Marion said.
+Some teachers can do that now, using data from performance tasks, but it “requires a lot of skill, and requires a lot of practice. So that’s why it doesn’t happen,” Marion said. “If AI could shorten that process and improve interpretations teachers make from assessments of all sorts, it would be phenomenal.”
+‘Everyone’s gonna be watching it very closely’
+State chiefs were also intrigued.
+“You have a substantive assessment organization, making a first move in the direction” to see how AI can help assessments capture skills other tests struggle to measure, said Frank Edelblut, New Hampshire’s state chief.
+He wants to know: “How is it going to be deployed? What do we expect out of this? Everyone’s going to be watching it very closely.”
+The news came as a “pleasant surprise” to Kirsten Baesler, North Dakota’s state chief. “I do believe there’s an ability for us to leverage AI” to improve testing, including interim tests given over the course of the school year to offer a real-time snapshot of student performance.
+
+“We’ve been long talking about performance assessments, and I think to have international leaders also looking at it, I think we’ll go further, faster,” Baesler added.
